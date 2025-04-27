@@ -1,0 +1,16 @@
+{
+  "total_queries": 30,
+  "high_risk_queries": 14,
+  "low_risk_queries": 16,
+  "average_similarity": 0.4855555639225215,
+  "query_distribution": {
+    "20:00": 4,
+    "21:00": 7,
+    "12:00": 3,
+    "13:00": 10,
+    "16:00": 1,
+    "19:00": 4,
+    "15:00": 1
+  },
+  "last_updated": "2025-04-14T20:45:09.642389"
+}

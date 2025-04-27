@@ -1,0 +1,1395 @@
+2025-03-13 20:50:53,844 - utils.knowledge_base - INFO - 从 data\knowledge.json 加载了 33 条知识
+2025-03-13 20:50:53,846 - __main__ - INFO - 已从Windows系统复制黑体字体到 fonts\simhei.ttf
+2025-03-13 20:50:53,846 - __main__ - INFO - 成功加载中文字体文件
+2025-03-13 20:50:53,846 - __main__ - WARNING - 配置中文字体失败: module 'matplotlib.font_manager' has no attribute '_rebuild'
+2025-03-13 20:50:53,846 - __main__ - INFO - 目录 data 已创建并可写入
+2025-03-13 20:50:53,846 - __main__ - INFO - 目录 logs 已创建并可写入
+2025-03-13 20:50:53,856 - utils.knowledge_base - INFO - 从 data\knowledge.json 加载了 33 条知识
+2025-03-13 20:52:47,877 - utils.knowledge_base - INFO - 从 data\knowledge.json 加载了 33 条知识
+2025-03-13 20:52:47,897 - __main__ - INFO - 成功加载中文字体文件
+2025-03-13 20:52:47,897 - __main__ - WARNING - 配置中文字体失败: module 'matplotlib.font_manager' has no attribute '_rebuild'
+2025-03-13 20:52:47,897 - __main__ - INFO - 目录 data 已创建并可写入
+2025-03-13 20:52:47,897 - __main__ - INFO - 目录 logs 已创建并可写入
+2025-03-13 20:52:47,897 - utils.knowledge_base - INFO - 从 data\knowledge.json 加载了 33 条知识
+2025-03-13 20:54:53,966 - utils.knowledge_base - INFO - 从 data\knowledge.json 加载了 33 条知识
+2025-03-13 20:54:53,966 - __main__ - INFO - 成功加载中文字体文件
+2025-03-13 20:54:53,966 - __main__ - WARNING - 配置中文字体失败: module 'matplotlib.font_manager' has no attribute '_rebuild'
+2025-03-13 20:54:53,968 - __main__ - INFO - 目录 data 已创建并可写入
+2025-03-13 20:54:53,968 - __main__ - INFO - 目录 logs 已创建并可写入
+2025-03-13 20:54:53,968 - utils.knowledge_base - INFO - 从 data\knowledge.json 加载了 33 条知识
+2025-03-13 20:56:03,014 - utils.knowledge_base - INFO - 从 data\knowledge.json 加载了 33 条知识
+2025-03-13 20:56:03,014 - __main__ - INFO - 成功加载中文字体文件
+2025-03-13 20:56:03,014 - __main__ - WARNING - 配置中文字体失败: module 'matplotlib.font_manager' has no attribute '_rebuild'
+2025-03-13 20:56:03,014 - __main__ - INFO - 目录 data 已创建并可写入
+2025-03-13 20:56:03,014 - __main__ - INFO - 目录 logs 已创建并可写入
+2025-03-13 20:56:03,014 - utils.knowledge_base - INFO - 从 data\knowledge.json 加载了 33 条知识
+2025-03-13 20:56:08,684 - __main__ - INFO - 尝试加载历史记录, 限制数量: 20
+2025-03-13 20:56:08,693 - utils.data_manager - INFO - 从文件加载了 2 条历史记录
+2025-03-13 20:56:08,695 - __main__ - INFO - 成功加载 2 条历史记录
+2025-03-13 20:56:11,649 - __main__ - INFO - 尝试加载历史记录, 限制数量: 20
+2025-03-13 20:56:11,651 - utils.data_manager - INFO - 从文件加载了 2 条历史记录
+2025-03-13 20:56:11,652 - __main__ - INFO - 成功加载 2 条历史记录
+2025-03-13 20:56:14,156 - __main__ - INFO - 成功加载统计数据: {'total_queries': 2, 'high_risk_queries': 1, 'low_risk_queries': 1, 'average_similarity': 0.530355889748905, 'last_updated': '2025-03-13 20:56:14'}
+2025-03-13 20:57:14,594 - __main__ - INFO - 尝试加载历史记录, 限制数量: 20
+2025-03-13 20:57:14,596 - utils.data_manager - INFO - 从文件加载了 2 条历史记录
+2025-03-13 20:57:14,596 - __main__ - INFO - 成功加载 2 条历史记录
+2025-03-13 20:57:16,318 - __main__ - INFO - 成功加载统计数据: {'total_queries': 2, 'high_risk_queries': 1, 'low_risk_queries': 1, 'average_similarity': 0.530355889748905, 'last_updated': '2025-03-13 20:57:16'}
+2025-03-13 20:59:42,520 - __main__ - INFO - 尝试加载历史记录, 限制数量: 20
+2025-03-13 20:59:42,523 - utils.data_manager - INFO - 从文件加载了 2 条历史记录
+2025-03-13 20:59:42,524 - __main__ - INFO - 成功加载 2 条历史记录
+2025-03-13 20:59:48,312 - __main__ - INFO - 成功加载统计数据: {'total_queries': 2, 'high_risk_queries': 1, 'low_risk_queries': 1, 'average_similarity': 0.530355889748905, 'last_updated': '2025-03-13 20:59:48'}
+2025-03-13 21:00:20,201 - utils.knowledge_base - INFO - 从 data\knowledge.json 加载了 33 条知识
+2025-03-13 21:00:20,201 - __main__ - INFO - 成功加载中文字体文件
+2025-03-13 21:00:20,201 - __main__ - WARNING - 配置中文字体失败: module 'matplotlib.font_manager' has no attribute '_rebuild'
+2025-03-13 21:00:20,201 - __main__ - INFO - 目录 data 已创建并可写入
+2025-03-13 21:00:20,201 - __main__ - INFO - 目录 logs 已创建并可写入
+2025-03-13 21:00:20,201 - utils.knowledge_base - INFO - 从 data\knowledge.json 加载了 33 条知识
+2025-03-13 21:00:23,272 - __main__ - INFO - 尝试加载历史记录, 限制数量: 20
+2025-03-13 21:00:23,276 - utils.data_manager - INFO - 从文件加载了 2 条历史记录
+2025-03-13 21:00:23,279 - __main__ - INFO - 成功加载 2 条历史记录
+2025-03-13 21:00:25,823 - __main__ - INFO - 尝试加载历史记录, 限制数量: 20
+2025-03-13 21:00:25,824 - utils.data_manager - INFO - 从文件加载了 2 条历史记录
+2025-03-13 21:00:25,824 - __main__ - INFO - 成功加载 2 条历史记录
+2025-03-13 21:00:38,932 - utils.knowledge_base - INFO - 知识库已导出到 data\knowledge_export.csv，共 33 条记录
+2025-03-13 21:01:09,508 - __main__ - INFO - 统计数据类型: <class 'dict'>, 内容: {'total_queries': 2, 'high_risk_queries': 1, 'low_risk_queries': 1, 'average_similarity': 0.530355889748905, 'last_updated': '2025-03-13 21:01:09'}
+2025-03-13 21:01:11,220 - __main__ - INFO - 统计数据类型: <class 'dict'>, 内容: {'total_queries': 2, 'high_risk_queries': 1, 'low_risk_queries': 1, 'average_similarity': 0.530355889748905, 'last_updated': '2025-03-13 21:01:11'}
+2025-03-13 21:01:12,307 - __main__ - INFO - 统计数据类型: <class 'dict'>, 内容: {'total_queries': 2, 'high_risk_queries': 1, 'low_risk_queries': 1, 'average_similarity': 0.530355889748905, 'last_updated': '2025-03-13 21:01:12'}
+2025-03-13 21:01:16,887 - __main__ - INFO - 统计数据类型: <class 'dict'>, 内容: {'total_queries': 2, 'high_risk_queries': 1, 'low_risk_queries': 1, 'average_similarity': 0.530355889748905, 'last_updated': '2025-03-13 21:01:16'}
+2025-03-13 21:15:33,289 - __main__ - INFO - 尝试加载历史记录, 限制数量: 20
+2025-03-13 21:15:33,292 - utils.data_manager - INFO - 从文件加载了 2 条历史记录
+2025-03-13 21:15:33,293 - __main__ - INFO - 成功加载 2 条历史记录
+2025-03-13 21:15:34,816 - __main__ - INFO - 尝试加载历史记录, 限制数量: 20
+2025-03-13 21:15:34,821 - utils.data_manager - INFO - 从文件加载了 2 条历史记录
+2025-03-13 21:15:34,821 - __main__ - INFO - 成功加载 2 条历史记录
+2025-03-13 21:15:53,882 - utils.knowledge_base - INFO - 从 data\knowledge.json 加载了 33 条知识
+2025-03-13 21:15:53,882 - __main__ - INFO - 成功加载中文字体文件
+2025-03-13 21:15:53,882 - __main__ - WARNING - 配置中文字体失败: module 'matplotlib.font_manager' has no attribute '_rebuild'
+2025-03-13 21:15:53,882 - __main__ - INFO - 目录 data 已创建并可写入
+2025-03-13 21:15:53,882 - __main__ - INFO - 目录 logs 已创建并可写入
+2025-03-13 21:15:53,882 - utils.knowledge_base - INFO - 从 data\knowledge.json 加载了 33 条知识
+2025-03-13 21:15:56,822 - __main__ - INFO - 尝试加载历史记录, 限制数量: 20
+2025-03-13 21:15:56,826 - utils.data_manager - INFO - 从文件加载了 2 条历史记录
+2025-03-13 21:15:56,827 - __main__ - INFO - 成功加载 2 条历史记录
+2025-03-13 21:16:48,690 - reverse_verify - INFO - 开始验证问题: '头晕眼花，脚扑朔迷离，说话不知所云，有什么自然疗法？或者饮食补充剂？'
+2025-03-13 21:16:48,691 - reverse_verify - INFO - 问题分析 - 关键词: ['补充剂', '饮食', '说话'], 实体: []
+2025-03-13 21:16:48,691 - utils.api_interaction - INFO - 尝试生成文本: prompt长度=41, temperature=0.7
+2025-03-13 21:16:49,192 - utils.api_interaction - INFO - 成功生成文本: 长度=14
+2025-03-13 21:16:49,192 - reverse_verify - WARNING - 答案与知识库冲突 - 答案可能与已知信息冲突: 自然疗法 - 许多自然疗法缺乏科学验证，不应替代常规医疗
+2025-03-13 21:16:49,192 - utils.api_interaction - INFO - 尝试生成文本: prompt长度=90, temperature=0.3
+2025-03-13 21:16:49,693 - utils.api_interaction - INFO - 成功生成文本: 长度=27
+2025-03-13 21:16:49,693 - reverse_verify - INFO - 答案事实性评分: 7/10, 理由: 回答内容基本准确，但缺少一些细节说明。
+2025-03-13 21:16:49,693 - reverse_verify - INFO - 开始生成反向问题 - 原问题: '头晕眼花，脚扑朔迷离，说话不知所云，有什么自然疗法？或者饮食补充剂？', 关键词: ['补充剂', '饮食', '说话']
+2025-03-13 21:16:49,693 - utils.api_interaction - INFO - 尝试生成文本: prompt长度=85, temperature=0.8
+2025-03-13 21:16:50,195 - utils.api_interaction - INFO - 成功生成文本: 长度=14
+2025-03-13 21:16:50,195 - utils.api_interaction - INFO - 尝试生成文本: prompt长度=119, temperature=0.9
+2025-03-13 21:16:50,697 - utils.api_interaction - INFO - 成功生成文本: 长度=14
+2025-03-13 21:16:50,697 - utils.api_interaction - INFO - 尝试生成文本: prompt长度=135, temperature=1.0
+2025-03-13 21:16:51,198 - utils.api_interaction - INFO - 成功生成文本: 长度=14
+2025-03-13 21:16:51,216 - reverse_verify - INFO - 反向问题生成完成 - 耗时: 1.52秒, 最佳问题: '这是一个模拟的文本生成响应。', 相似度: 0.0000
+2025-03-13 21:16:51,216 - reverse_verify - INFO - 验证完成 - 问题: '头晕眼花，脚扑朔迷离，说话不知所云，有什么自然疗法？或者饮食补充剂？', 相似度: 0.0000, 风险: 高风险, 耗时: 2.53秒
+2025-03-13 21:16:51,228 - utils.data_manager - INFO - 成功保存验证结果: 问题='头晕眼花，脚扑朔迷离，说话不知所云，有什么自然疗法？或者饮食...'
+2025-03-13 21:18:27,903 - __main__ - INFO - 尝试加载历史记录, 限制数量: 20
+2025-03-13 21:18:27,905 - utils.data_manager - ERROR - 读取历史记录失败: Error tokenizing data. C error: Expected 15 fields in line 4, saw 17
+
+2025-03-13 21:18:27,905 - utils.data_manager - ERROR - 获取历史记录失败: Error tokenizing data. C error: Expected 15 fields in line 4, saw 17
+
+2025-03-13 21:18:27,905 - __main__ - INFO - 成功加载 0 条历史记录
+2025-03-13 21:18:36,950 - __main__ - INFO - 尝试加载历史记录, 限制数量: 20
+2025-03-13 21:18:36,952 - utils.data_manager - ERROR - 获取历史记录失败: Error tokenizing data. C error: Expected 15 fields in line 4, saw 17
+
+2025-03-13 21:18:36,952 - __main__ - INFO - 成功加载 0 条历史记录
+2025-03-13 21:18:38,333 - reverse_verify - INFO - 开始验证问题: '感冒了怎么办？'
+2025-03-13 21:18:38,333 - reverse_verify - INFO - 问题分析 - 关键词: ['感冒', '怎么办'], 实体: []
+2025-03-13 21:18:38,333 - utils.api_interaction - INFO - 尝试生成文本: prompt长度=14, temperature=0.7
+2025-03-13 21:18:38,834 - utils.api_interaction - INFO - 成功生成文本: 长度=14
+2025-03-13 21:18:38,835 - utils.api_interaction - INFO - 尝试生成文本: prompt长度=90, temperature=0.3
+2025-03-13 21:18:39,335 - utils.api_interaction - INFO - 成功生成文本: 长度=27
+2025-03-13 21:18:39,335 - reverse_verify - INFO - 答案事实性评分: 7/10, 理由: 回答内容基本准确，但缺少一些细节说明。
+2025-03-13 21:18:39,335 - reverse_verify - INFO - 开始生成反向问题 - 原问题: '感冒了怎么办？', 关键词: ['感冒', '怎么办']
+2025-03-13 21:18:39,335 - utils.api_interaction - INFO - 尝试生成文本: prompt长度=85, temperature=0.8
+2025-03-13 21:18:39,836 - utils.api_interaction - INFO - 成功生成文本: 长度=14
+2025-03-13 21:18:39,836 - utils.api_interaction - INFO - 尝试生成文本: prompt长度=119, temperature=0.9
+2025-03-13 21:18:40,337 - utils.api_interaction - INFO - 成功生成文本: 长度=14
+2025-03-13 21:18:40,337 - utils.api_interaction - INFO - 尝试生成文本: prompt长度=135, temperature=1.0
+2025-03-13 21:18:40,838 - utils.api_interaction - INFO - 成功生成文本: 长度=14
+2025-03-13 21:18:40,855 - reverse_verify - INFO - 反向问题生成完成 - 耗时: 1.52秒, 最佳问题: '这是一个模拟的文本生成响应。', 相似度: 0.0000
+2025-03-13 21:18:40,855 - reverse_verify - INFO - 验证完成 - 问题: '感冒了怎么办？', 相似度: 0.0000, 风险: 高风险, 耗时: 2.52秒
+2025-03-13 21:18:40,860 - utils.data_manager - INFO - 成功保存验证结果: 问题='感冒了怎么办？...'
+2025-03-13 21:19:02,493 - utils.knowledge_base - INFO - 从 data\knowledge.json 加载了 33 条知识
+2025-03-13 21:19:02,493 - __main__ - INFO - 成功加载中文字体文件
+2025-03-13 21:19:02,493 - __main__ - WARNING - 配置中文字体失败: module 'matplotlib.font_manager' has no attribute '_rebuild'
+2025-03-13 21:19:02,505 - __main__ - INFO - 目录 data 已创建并可写入
+2025-03-13 21:19:02,505 - __main__ - INFO - 目录 logs 已创建并可写入
+2025-03-13 21:19:02,509 - utils.knowledge_base - INFO - 从 data\knowledge.json 加载了 33 条知识
+2025-03-13 21:19:09,712 - __main__ - INFO - 尝试加载历史记录, 限制数量: 20
+2025-03-13 21:19:09,714 - utils.data_manager - ERROR - 读取历史记录失败: Error tokenizing data. C error: Expected 15 fields in line 4, saw 17
+
+2025-03-13 21:19:09,715 - utils.data_manager - ERROR - 获取历史记录失败: Error tokenizing data. C error: Expected 15 fields in line 4, saw 17
+
+2025-03-13 21:19:09,715 - __main__ - INFO - 成功加载 0 条历史记录
+2025-03-13 21:19:34,068 - reverse_verify - INFO - 开始验证问题: '感冒了怎么办？'
+2025-03-13 21:19:34,069 - reverse_verify - INFO - 问题分析 - 关键词: ['感冒', '怎么办'], 实体: []
+2025-03-13 21:19:34,069 - utils.api_interaction - INFO - 尝试生成文本: prompt长度=14, temperature=0.7
+2025-03-13 21:19:34,570 - utils.api_interaction - INFO - 成功生成文本: 长度=14
+2025-03-13 21:19:34,570 - utils.api_interaction - INFO - 尝试生成文本: prompt长度=90, temperature=0.3
+2025-03-13 21:19:35,071 - utils.api_interaction - INFO - 成功生成文本: 长度=27
+2025-03-13 21:19:35,071 - reverse_verify - INFO - 答案事实性评分: 7/10, 理由: 回答内容基本准确，但缺少一些细节说明。
+2025-03-13 21:19:35,071 - reverse_verify - INFO - 开始生成反向问题 - 原问题: '感冒了怎么办？', 关键词: ['感冒', '怎么办']
+2025-03-13 21:19:35,071 - utils.api_interaction - INFO - 尝试生成文本: prompt长度=85, temperature=0.8
+2025-03-13 21:19:35,573 - utils.api_interaction - INFO - 成功生成文本: 长度=14
+2025-03-13 21:19:35,573 - utils.api_interaction - INFO - 尝试生成文本: prompt长度=119, temperature=0.9
+2025-03-13 21:19:36,073 - utils.api_interaction - INFO - 成功生成文本: 长度=14
+2025-03-13 21:19:36,073 - utils.api_interaction - INFO - 尝试生成文本: prompt长度=135, temperature=1.0
+2025-03-13 21:19:36,574 - utils.api_interaction - INFO - 成功生成文本: 长度=14
+2025-03-13 21:19:36,592 - reverse_verify - INFO - 反向问题生成完成 - 耗时: 1.52秒, 最佳问题: '这是一个模拟的文本生成响应。', 相似度: 0.0000
+2025-03-13 21:19:36,592 - reverse_verify - INFO - 验证完成 - 问题: '感冒了怎么办？', 相似度: 0.0000, 风险: 高风险, 耗时: 2.52秒
+2025-03-13 21:19:36,605 - utils.data_manager - INFO - 成功保存验证结果: 问题='感冒了怎么办？...'
+2025-03-13 21:22:21,399 - __main__ - INFO - 尝试加载历史记录, 限制数量: 20
+2025-03-13 21:22:21,401 - utils.data_manager - ERROR - 读取历史记录失败: Error tokenizing data. C error: Expected 15 fields in line 4, saw 17
+
+2025-03-13 21:22:21,401 - utils.data_manager - ERROR - 获取历史记录失败: Error tokenizing data. C error: Expected 15 fields in line 4, saw 17
+
+2025-03-13 21:22:21,401 - __main__ - INFO - 成功加载 0 条历史记录
+2025-03-13 21:22:22,586 - __main__ - INFO - 尝试加载历史记录, 限制数量: 20
+2025-03-13 21:22:22,586 - utils.data_manager - ERROR - 读取历史记录失败: Error tokenizing data. C error: Expected 15 fields in line 4, saw 17
+
+2025-03-13 21:22:22,587 - utils.data_manager - ERROR - 获取历史记录失败: Error tokenizing data. C error: Expected 15 fields in line 4, saw 17
+
+2025-03-13 21:22:22,587 - __main__ - INFO - 成功加载 0 条历史记录
+2025-03-13 21:22:37,651 - utils.knowledge_base - INFO - 从 data\knowledge.json 加载了 33 条知识
+2025-03-13 21:22:37,651 - __main__ - INFO - 成功加载中文字体文件
+2025-03-13 21:22:37,651 - __main__ - WARNING - 配置中文字体失败: module 'matplotlib.font_manager' has no attribute '_rebuild'
+2025-03-13 21:22:37,651 - __main__ - INFO - 目录 data 已创建并可写入
+2025-03-13 21:22:37,651 - __main__ - INFO - 目录 logs 已创建并可写入
+2025-03-13 21:22:37,651 - utils.knowledge_base - INFO - 从 data\knowledge.json 加载了 33 条知识
+2025-03-13 21:22:41,249 - __main__ - INFO - 尝试加载历史记录, 限制数量: 20
+2025-03-13 21:22:41,249 - utils.data_manager - ERROR - 读取历史记录失败: Error tokenizing data. C error: Expected 15 fields in line 4, saw 17
+
+2025-03-13 21:22:41,249 - utils.data_manager - ERROR - 获取历史记录失败: Error tokenizing data. C error: Expected 15 fields in line 4, saw 17
+
+2025-03-13 21:22:41,249 - __main__ - INFO - 成功加载 0 条历史记录
+2025-03-13 21:22:48,157 - reverse_verify - INFO - 开始验证问题: '感冒了怎么办？'
+2025-03-13 21:22:48,158 - reverse_verify - INFO - 问题分析 - 关键词: ['感冒', '怎么办'], 实体: []
+2025-03-13 21:22:48,158 - utils.api_interaction - INFO - 尝试通过混元API生成文本: model=hunyuan-turbo, prompt长度=14, temperature=0.7
+2025-03-13 21:23:00,511 - utils.api_interaction - INFO - 成功生成文本: 长度=704, 耗时=12.35秒
+2025-03-13 21:23:00,511 - utils.api_interaction - INFO - 尝试通过混元API生成文本: model=hunyuan-turbo, prompt长度=780, temperature=0.3
+2025-03-13 21:23:09,241 - utils.api_interaction - INFO - 成功生成文本: 长度=173, 耗时=8.73秒
+2025-03-13 21:23:09,241 - reverse_verify - INFO - 答案事实性评分: 9/10, 理由: 该陈述提供了详尽且科学的感冒处理措施，涵盖了休息保暖、饮食调理、对症治疗、中医疗法、药物治疗及预防措施等多个方面。其中，休息、保暖、多饮水、清淡饮食、对症治疗等建议均符合医学常识。同时，也提到了在症状严重时应就医，这是非常负责任的建议。尽管中医疗法部分对于非专业人士可能较难理解，但整体建议科学合理，因此给出9分的高可信度评分。
+2025-03-13 21:23:09,241 - reverse_verify - INFO - 开始生成反向问题 - 原问题: '感冒了怎么办？', 关键词: ['感冒', '怎么办']
+2025-03-13 21:23:09,241 - utils.api_interaction - INFO - 尝试通过混元API生成文本: model=hunyuan-turbo, prompt长度=775, temperature=0.8
+2025-03-13 21:23:11,098 - utils.api_interaction - INFO - 成功生成文本: 长度=11, 耗时=1.86秒
+2025-03-13 21:23:11,100 - utils.api_interaction - INFO - 尝试通过混元API生成文本: model=hunyuan-turbo, prompt长度=806, temperature=0.9
+2025-03-13 21:23:17,586 - utils.api_interaction - INFO - 成功生成文本: 长度=11, 耗时=6.49秒
+2025-03-13 21:23:17,586 - utils.api_interaction - INFO - 尝试通过混元API生成文本: model=hunyuan-turbo, prompt长度=819, temperature=1.0
+2025-03-13 21:23:19,029 - utils.api_interaction - INFO - 成功生成文本: 长度=12, 耗时=1.44秒
+2025-03-13 21:23:19,039 - reverse_verify - INFO - 反向问题生成完成 - 耗时: 9.80秒, 最佳问题: '感冒了应该怎么办才好？', 相似度: 0.7093
+2025-03-13 21:23:19,039 - reverse_verify - INFO - 验证完成 - 问题: '感冒了怎么办？', 相似度: 0.7093, 风险: 低风险, 耗时: 30.88秒
+2025-03-13 21:23:19,042 - utils.data_manager - INFO - 成功保存验证结果: 问题='感冒了怎么办？...'
+2025-03-13 21:24:36,100 - utils.knowledge_base - INFO - 从 data\knowledge.json 加载了 33 条知识
+2025-03-13 21:24:36,100 - __main__ - INFO - 成功加载中文字体文件
+2025-03-13 21:24:36,100 - __main__ - WARNING - 配置中文字体失败: module 'matplotlib.font_manager' has no attribute '_rebuild'
+2025-03-13 21:24:36,119 - __main__ - INFO - 目录 data 已创建并可写入
+2025-03-13 21:24:36,119 - __main__ - INFO - 目录 logs 已创建并可写入
+2025-03-13 21:24:36,119 - utils.knowledge_base - INFO - 从 data\knowledge.json 加载了 33 条知识
+2025-03-13 21:24:44,180 - __main__ - INFO - 尝试加载历史记录, 限制数量: 20
+2025-03-13 21:24:44,182 - utils.data_manager - ERROR - 读取历史记录失败: Error tokenizing data. C error: Expected 15 fields in line 4, saw 17
+
+2025-03-13 21:24:44,183 - utils.data_manager - ERROR - 获取历史记录失败: Error tokenizing data. C error: Expected 15 fields in line 4, saw 17
+
+2025-03-13 21:24:44,183 - __main__ - INFO - 成功加载 0 条历史记录
+2025-03-13 21:24:52,599 - reverse_verify - INFO - 开始验证问题: '感冒了怎么办？'
+2025-03-13 21:24:52,599 - reverse_verify - INFO - 问题分析 - 关键词: ['感冒', '怎么办'], 实体: []
+2025-03-13 21:24:52,599 - utils.api_interaction - INFO - 尝试通过混元API生成文本: model=hunyuan-turbo, prompt长度=14, temperature=0.7
+2025-03-13 21:25:05,049 - utils.api_interaction - INFO - 成功生成文本: 长度=714, 耗时=12.45秒
+2025-03-13 21:25:05,053 - utils.api_interaction - INFO - 尝试通过混元API生成文本: model=hunyuan-turbo, prompt长度=790, temperature=0.3
+2025-03-13 21:25:13,877 - utils.api_interaction - INFO - 成功生成文本: 长度=180, 耗时=8.82秒
+2025-03-13 21:25:13,879 - reverse_verify - INFO - 答案事实性评分: 9/10, 理由: 该陈述提供了详尽且科学的感冒处理措施，涵盖了休息与保暖、饮食调理、对症治疗、中医疗法、药物治疗及预防措施等多个方面。其中，休息、保暖、多饮水、清淡饮食等建议是基于常识和医学基本原理的；对症治疗部分提到的药物也是常见的感冒用药；预防措施也符合公共卫生建议。虽然中医疗法部分对于非专业人士可能较难判断，但整体建议是合理且有助于缓解感冒症状的。唯一
+2025-03-13 21:25:13,879 - reverse_verify - INFO - 开始生成反向问题 - 原问题: '感冒了怎么办？', 关键词: ['感冒', '怎么办']
+2025-03-13 21:25:13,879 - utils.api_interaction - INFO - 尝试通过混元API生成文本: model=hunyuan-turbo, prompt长度=785, temperature=0.8
+2025-03-13 21:25:16,034 - utils.api_interaction - INFO - 成功生成文本: 长度=11, 耗时=2.15秒
+2025-03-13 21:25:16,038 - utils.api_interaction - INFO - 尝试通过混元API生成文本: model=hunyuan-turbo, prompt长度=816, temperature=0.9
+2025-03-13 21:25:17,469 - utils.api_interaction - INFO - 成功生成文本: 长度=15, 耗时=1.43秒
+2025-03-13 21:25:17,472 - utils.api_interaction - INFO - 尝试通过混元API生成文本: model=hunyuan-turbo, prompt长度=833, temperature=1.0
+2025-03-13 21:25:18,998 - utils.api_interaction - INFO - 成功生成文本: 长度=13, 耗时=1.53秒
+2025-03-13 21:25:19,019 - reverse_verify - INFO - 反向问题生成完成 - 耗时: 5.14秒, 最佳问题: '感冒了应该怎么办才好？', 相似度: 0.7093
+2025-03-13 21:25:19,019 - reverse_verify - INFO - 验证完成 - 问题: '感冒了怎么办？', 相似度: 0.7093, 风险: 低风险, 耗时: 26.42秒
+2025-03-13 21:25:19,032 - utils.data_manager - INFO - 成功保存验证结果: 问题='感冒了怎么办？...'
+2025-03-13 21:25:51,199 - __main__ - INFO - 尝试加载历史记录, 限制数量: 20
+2025-03-13 21:25:51,199 - utils.data_manager - ERROR - 获取历史记录失败: Error tokenizing data. C error: Expected 15 fields in line 4, saw 17
+
+2025-03-13 21:25:51,199 - __main__ - INFO - 成功加载 0 条历史记录
+2025-03-13 21:25:51,874 - __main__ - INFO - 尝试加载历史记录, 限制数量: 20
+2025-03-13 21:25:51,875 - utils.data_manager - ERROR - 获取历史记录失败: Error tokenizing data. C error: Expected 15 fields in line 4, saw 17
+
+2025-03-13 21:25:51,875 - __main__ - INFO - 成功加载 0 条历史记录
+2025-03-13 21:25:53,493 - __main__ - INFO - 尝试加载历史记录, 限制数量: 20
+2025-03-13 21:25:53,493 - utils.data_manager - ERROR - 获取历史记录失败: Error tokenizing data. C error: Expected 15 fields in line 4, saw 17
+
+2025-03-13 21:25:53,493 - __main__ - INFO - 成功加载 0 条历史记录
+2025-03-13 21:25:53,685 - __main__ - INFO - 尝试加载历史记录, 限制数量: 20
+2025-03-13 21:25:53,686 - utils.data_manager - ERROR - 获取历史记录失败: Error tokenizing data. C error: Expected 15 fields in line 4, saw 17
+
+2025-03-13 21:25:53,686 - __main__ - INFO - 成功加载 0 条历史记录
+2025-03-13 21:25:53,879 - __main__ - INFO - 尝试加载历史记录, 限制数量: 20
+2025-03-13 21:25:53,881 - utils.data_manager - ERROR - 获取历史记录失败: Error tokenizing data. C error: Expected 15 fields in line 4, saw 17
+
+2025-03-13 21:25:53,881 - __main__ - INFO - 成功加载 0 条历史记录
+2025-03-13 21:25:57,168 - __main__ - INFO - 尝试加载历史记录, 限制数量: 25
+2025-03-13 21:25:57,168 - utils.data_manager - ERROR - 获取历史记录失败: Error tokenizing data. C error: Expected 15 fields in line 4, saw 17
+
+2025-03-13 21:25:57,168 - __main__ - INFO - 成功加载 0 条历史记录
+2025-03-13 21:25:57,362 - __main__ - INFO - 尝试加载历史记录, 限制数量: 25
+2025-03-13 21:25:57,364 - utils.data_manager - ERROR - 获取历史记录失败: Error tokenizing data. C error: Expected 15 fields in line 4, saw 17
+
+2025-03-13 21:25:57,364 - __main__ - INFO - 成功加载 0 条历史记录
+2025-03-13 21:26:14,348 - utils.knowledge_base - INFO - 删除知识: 急救
+2025-03-13 21:26:14,351 - utils.knowledge_base - INFO - 知识库已保存到 data\knowledge.json
+2025-03-13 21:26:19,362 - utils.data_manager - ERROR - 读取历史记录失败: Error tokenizing data. C error: Expected 15 fields in line 4, saw 17
+
+2025-03-13 21:26:19,362 - __main__ - INFO - 统计数据类型: <class 'dict'>, 内容: {'total_queries': 0, 'high_risk_queries': 0, 'low_risk_queries': 0, 'average_similarity': 0.0, 'last_updated': '2025-03-13 21:26:19', 'error': 'Error tokenizing data. C error: Expected 15 fields in line 4, saw 17\n'}
+2025-03-13 21:26:20,598 - utils.data_manager - ERROR - 读取历史记录失败: Error tokenizing data. C error: Expected 15 fields in line 4, saw 17
+
+2025-03-13 21:26:20,598 - __main__ - INFO - 统计数据类型: <class 'dict'>, 内容: {'total_queries': 0, 'high_risk_queries': 0, 'low_risk_queries': 0, 'average_similarity': 0.0, 'last_updated': '2025-03-13 21:26:20', 'error': 'Error tokenizing data. C error: Expected 15 fields in line 4, saw 17\n'}
+2025-03-13 21:26:21,447 - utils.data_manager - ERROR - 读取历史记录失败: Error tokenizing data. C error: Expected 15 fields in line 4, saw 17
+
+2025-03-13 21:26:21,447 - __main__ - INFO - 统计数据类型: <class 'dict'>, 内容: {'total_queries': 0, 'high_risk_queries': 0, 'low_risk_queries': 0, 'average_similarity': 0.0, 'last_updated': '2025-03-13 21:26:21', 'error': 'Error tokenizing data. C error: Expected 15 fields in line 4, saw 17\n'}
+2025-03-13 21:26:23,223 - utils.data_manager - ERROR - 读取历史记录失败: Error tokenizing data. C error: Expected 15 fields in line 4, saw 17
+
+2025-03-13 21:26:23,223 - __main__ - INFO - 统计数据类型: <class 'dict'>, 内容: {'total_queries': 0, 'high_risk_queries': 0, 'low_risk_queries': 0, 'average_similarity': 0.0, 'last_updated': '2025-03-13 21:26:23', 'error': 'Error tokenizing data. C error: Expected 15 fields in line 4, saw 17\n'}
+2025-03-13 21:26:37,601 - utils.knowledge_base - INFO - 知识库已导出到 data\knowledge_export.csv，共 32 条记录
+2025-03-13 21:27:59,627 - __main__ - INFO - 尝试加载历史记录, 限制数量: 20
+2025-03-13 21:27:59,628 - utils.data_manager - ERROR - 读取历史记录失败: Error tokenizing data. C error: Expected 15 fields in line 4, saw 17
+
+2025-03-13 21:27:59,628 - utils.data_manager - ERROR - 获取历史记录失败: Error tokenizing data. C error: Expected 15 fields in line 4, saw 17
+
+2025-03-13 21:27:59,628 - __main__ - INFO - 成功加载 0 条历史记录
+2025-03-13 21:28:05,017 - __main__ - INFO - 尝试加载历史记录, 限制数量: 20
+2025-03-13 21:28:05,017 - utils.data_manager - ERROR - 获取历史记录失败: Error tokenizing data. C error: Expected 15 fields in line 4, saw 17
+
+2025-03-13 21:28:05,017 - __main__ - INFO - 成功加载 0 条历史记录
+2025-03-13 21:28:05,333 - __main__ - INFO - 尝试加载历史记录, 限制数量: 20
+2025-03-13 21:28:05,334 - utils.data_manager - ERROR - 获取历史记录失败: Error tokenizing data. C error: Expected 15 fields in line 4, saw 17
+
+2025-03-13 21:28:05,334 - __main__ - INFO - 成功加载 0 条历史记录
+2025-03-13 21:28:05,542 - __main__ - INFO - 尝试加载历史记录, 限制数量: 20
+2025-03-13 21:28:05,542 - utils.data_manager - ERROR - 获取历史记录失败: Error tokenizing data. C error: Expected 15 fields in line 4, saw 17
+
+2025-03-13 21:28:05,542 - __main__ - INFO - 成功加载 0 条历史记录
+2025-03-13 21:28:12,350 - reverse_verify - INFO - 开始验证问题: '感冒了怎么办？
+'
+2025-03-13 21:28:12,353 - reverse_verify - INFO - 问题分析 - 关键词: ['感冒', '怎么办'], 实体: []
+2025-03-13 21:28:12,353 - utils.api_interaction - INFO - 尝试通过混元API生成文本: model=hunyuan-turbo, prompt长度=15, temperature=0.7
+2025-03-13 21:28:25,093 - utils.api_interaction - INFO - 成功生成文本: 长度=718, 耗时=12.74秒
+2025-03-13 21:28:25,095 - utils.api_interaction - INFO - 尝试通过混元API生成文本: model=hunyuan-turbo, prompt长度=794, temperature=0.3
+2025-03-13 21:28:34,607 - utils.api_interaction - INFO - 成功生成文本: 长度=152, 耗时=9.51秒
+2025-03-13 21:28:34,607 - reverse_verify - INFO - 答案事实性评分: 8/10, 理由: 该陈述提供了全面的感冒处理措施，涵盖了休息与保暖、饮食调理、对症治疗、中医疗法、药物治疗及预防措施，内容详实且科学合理。大部分建议均符合医学常识，如充足休息、多饮水、适当药物治疗等。然而，部分中医疗法和药物治疗的具体药物使用需要在中医师或药师指导下进行，不宜擅自使用，因此扣除一定分数。
+2025-03-13 21:28:34,607 - reverse_verify - INFO - 开始生成反向问题 - 原问题: '感冒了怎么办？
+', 关键词: ['感冒', '怎么办']
+2025-03-13 21:28:34,607 - utils.api_interaction - INFO - 尝试通过混元API生成文本: model=hunyuan-turbo, prompt长度=789, temperature=0.8
+2025-03-13 21:28:36,021 - utils.api_interaction - INFO - 成功生成文本: 长度=11, 耗时=1.41秒
+2025-03-13 21:28:36,033 - utils.api_interaction - INFO - 尝试通过混元API生成文本: model=hunyuan-turbo, prompt长度=820, temperature=0.9
+2025-03-13 21:28:37,442 - utils.api_interaction - INFO - 成功生成文本: 长度=12, 耗时=1.41秒
+2025-03-13 21:28:37,449 - utils.api_interaction - INFO - 尝试通过混元API生成文本: model=hunyuan-turbo, prompt长度=834, temperature=1.0
+2025-03-13 21:28:38,948 - utils.api_interaction - INFO - 成功生成文本: 长度=12, 耗时=1.50秒
+2025-03-13 21:28:38,980 - reverse_verify - INFO - 反向问题生成完成 - 耗时: 4.37秒, 最佳问题: '感冒了应该怎么办才好？', 相似度: 0.7093
+2025-03-13 21:28:38,980 - reverse_verify - INFO - 验证完成 - 问题: '感冒了怎么办？
+', 相似度: 0.7093, 风险: 低风险, 耗时: 26.63秒
+2025-03-13 21:28:38,982 - utils.data_manager - INFO - 成功保存验证结果: 问题='感冒了怎么办？
+...'
+2025-03-13 21:28:58,233 - __main__ - INFO - 尝试加载历史记录, 限制数量: 20
+2025-03-13 21:28:58,233 - utils.data_manager - ERROR - 获取历史记录失败: Error tokenizing data. C error: Expected 15 fields in line 4, saw 17
+
+2025-03-13 21:28:58,233 - __main__ - INFO - 成功加载 0 条历史记录
+2025-03-13 21:28:58,718 - __main__ - INFO - 尝试加载历史记录, 限制数量: 20
+2025-03-13 21:28:58,720 - utils.data_manager - ERROR - 获取历史记录失败: Error tokenizing data. C error: Expected 15 fields in line 4, saw 17
+
+2025-03-13 21:28:58,721 - __main__ - INFO - 成功加载 0 条历史记录
+2025-03-14 12:52:43,404 - utils.knowledge_base - INFO - 从 data\knowledge.json 加载了 32 条知识
+2025-03-14 12:52:43,404 - __main__ - INFO - 成功加载中文字体文件
+2025-03-14 12:52:43,404 - __main__ - WARNING - 配置中文字体失败: module 'matplotlib.font_manager' has no attribute '_rebuild'
+2025-03-14 12:52:43,404 - __main__ - INFO - 目录 data 已创建并可写入
+2025-03-14 12:52:43,404 - __main__ - INFO - 目录 logs 已创建并可写入
+2025-03-14 12:52:43,404 - utils.knowledge_base - INFO - 从 data\knowledge.json 加载了 32 条知识
+2025-03-14 12:52:47,047 - __main__ - INFO - 尝试加载历史记录, 限制数量: 20
+2025-03-14 12:52:47,047 - __main__ - WARNING - 历史记录文件为空
+2025-03-14 12:52:47,047 - utils.data_manager - WARNING - 历史记录文件为空
+2025-03-14 12:53:20,877 - reverse_verify - INFO - 开始验证问题: '感冒了怎么办？不治疗会恶化成癌症吗？'
+2025-03-14 12:53:20,878 - reverse_verify - INFO - 问题分析 - 关键词: ['癌症', '感冒', '恶化', '治疗'], 实体: []
+2025-03-14 12:53:20,879 - utils.api_interaction - INFO - 尝试通过混元API生成文本: model=hunyuan-turbo, prompt长度=25, temperature=0.7
+2025-03-14 12:53:31,006 - utils.api_interaction - INFO - 成功生成文本: 长度=481, 耗时=10.13秒
+2025-03-14 12:53:31,008 - reverse_verify - WARNING - 答案与知识库冲突 - 答案可能与已知信息冲突: 癌症 - 目前没有简单的治愈方法，需要专业医疗团队制定综合治疗方案
+2025-03-14 12:53:31,009 - utils.api_interaction - INFO - 尝试通过混元API生成文本: model=hunyuan-turbo, prompt长度=557, temperature=0.3
+2025-03-14 12:53:35,877 - utils.api_interaction - INFO - 成功生成文本: 长度=88, 耗时=4.87秒
+2025-03-14 12:53:35,892 - reverse_verify - INFO - 答案事实性评分: 10/10, 理由: 该陈述提供了关于感冒的详细准确的信息，涵盖了感冒的原因、症状、自愈时间、并发症以及预防和治疗建议。信息与公认的医学知识一致，没有误导性的内容，因此非常可信。
+2025-03-14 12:53:35,898 - reverse_verify - INFO - 开始生成反向问题 - 原问题: '感冒了怎么办？不治疗会恶化成癌症吗？', 关键词: ['癌症', '感冒', '恶化']
+2025-03-14 12:53:35,898 - utils.api_interaction - INFO - 尝试通过混元API生成文本: model=hunyuan-turbo, prompt长度=551, temperature=0.8
+2025-03-14 12:53:37,316 - utils.api_interaction - INFO - 成功生成文本: 长度=9, 耗时=1.42秒
+2025-03-14 12:53:37,316 - utils.api_interaction - INFO - 尝试通过混元API生成文本: model=hunyuan-turbo, prompt长度=580, temperature=0.9
+2025-03-14 12:53:38,702 - utils.api_interaction - INFO - 成功生成文本: 长度=10, 耗时=1.39秒
+2025-03-14 12:53:38,704 - utils.api_interaction - INFO - 尝试通过混元API生成文本: model=hunyuan-turbo, prompt长度=592, temperature=1.0
+2025-03-14 12:53:40,310 - utils.api_interaction - INFO - 成功生成文本: 长度=13, 耗时=1.61秒
+2025-03-14 12:53:40,349 - reverse_verify - INFO - 反向问题生成完成 - 耗时: 4.45秒, 最佳问题: '感冒会变成癌症吗？', 相似度: 0.3563
+2025-03-14 12:53:40,349 - reverse_verify - INFO - 验证完成 - 问题: '感冒了怎么办？不治疗会恶化成癌症吗？', 相似度: 0.3563, 风险: 低风险, 耗时: 19.47秒
+2025-03-14 12:53:40,351 - utils.data_manager - INFO - 成功保存验证结果: 问题='感冒了怎么办？不治疗会恶化成癌症吗？...'
+2025-03-14 12:54:16,722 - utils.knowledge_base - INFO - 成功以 utf-8 编码读取文件
+2025-03-14 12:54:16,722 - utils.knowledge_base - INFO - CSV文件没有正确的列名，已自动重命名前两列为'Key'和'Value'
+2025-03-14 12:54:16,725 - utils.knowledge_base - INFO - 知识库已保存到 data\knowledge.json
+2025-03-14 12:54:16,725 - utils.knowledge_base - INFO - 从 C:\Users\yishe\AppData\Local\Temp\gradio\129e619cab1d28760e5a2ca77cd7100abd3c8003\medical_knowledge.csv.txt 导入了 30 条知识
+2025-03-14 12:54:19,283 - utils.knowledge_base - INFO - 成功以 utf-8 编码读取文件
+2025-03-14 12:54:19,283 - utils.knowledge_base - INFO - CSV文件没有正确的列名，已自动重命名前两列为'Key'和'Value'
+2025-03-14 12:54:19,291 - utils.knowledge_base - INFO - 知识库已保存到 data\knowledge.json
+2025-03-14 12:54:19,291 - utils.knowledge_base - INFO - 从 C:\Users\yishe\AppData\Local\Temp\gradio\129e619cab1d28760e5a2ca77cd7100abd3c8003\medical_knowledge.csv.txt 导入了 30 条知识
+2025-03-14 12:54:25,174 - utils.knowledge_base - INFO - 知识库已导出到 data\knowledge_export.csv，共 33 条记录
+2025-03-14 12:55:06,978 - __main__ - INFO - 尝试加载历史记录, 限制数量: 20
+2025-03-14 12:55:06,986 - utils.data_manager - INFO - 从文件加载了 0 条历史记录
+2025-03-14 12:55:06,986 - __main__ - INFO - 成功加载 0 条历史记录
+2025-03-14 12:55:08,948 - __main__ - INFO - 尝试加载历史记录, 限制数量: 20
+2025-03-14 12:55:08,954 - utils.data_manager - INFO - 从文件加载了 0 条历史记录
+2025-03-14 12:55:08,957 - __main__ - INFO - 成功加载 0 条历史记录
+2025-03-14 12:56:48,025 - __main__ - INFO - 尝试加载历史记录, 限制数量: 20
+2025-03-14 12:56:48,029 - utils.data_manager - INFO - 从文件加载了 0 条历史记录
+2025-03-14 12:56:48,029 - __main__ - INFO - 成功加载 0 条历史记录
+2025-03-14 12:56:49,978 - __main__ - INFO - 尝试加载历史记录, 限制数量: 20
+2025-03-14 12:56:49,980 - utils.data_manager - INFO - 从文件加载了 0 条历史记录
+2025-03-14 12:56:49,980 - __main__ - INFO - 成功加载 0 条历史记录
+2025-03-14 12:56:55,838 - __main__ - INFO - 尝试加载历史记录, 限制数量: 25
+2025-03-14 12:56:55,844 - utils.data_manager - INFO - 从文件加载了 0 条历史记录
+2025-03-14 12:56:55,847 - __main__ - INFO - 成功加载 0 条历史记录
+2025-03-14 12:57:04,053 - reverse_verify - INFO - 开始验证问题: '感冒了怎么办？
+'
+2025-03-14 12:57:04,054 - reverse_verify - INFO - 问题分析 - 关键词: ['感冒', '怎么办'], 实体: []
+2025-03-14 12:57:04,055 - utils.api_interaction - INFO - 尝试通过混元API生成文本: model=hunyuan-turbo, prompt长度=15, temperature=0.7
+2025-03-14 12:57:16,401 - utils.api_interaction - INFO - 成功生成文本: 长度=581, 耗时=12.35秒
+2025-03-14 12:57:16,407 - utils.api_interaction - INFO - 尝试通过混元API生成文本: model=hunyuan-turbo, prompt长度=657, temperature=0.3
+2025-03-14 12:57:18,911 - utils.api_interaction - INFO - 成功生成文本: 长度=79, 耗时=2.50秒
+2025-03-14 12:57:18,912 - reverse_verify - INFO - 答案事实性评分: 9/10, 理由: 该陈述详细准确地描述了感冒的症状、一般治疗、对症治疗、药物治疗及注意事项。内容基于医学常识，且提供了实用的建议，符合实际情况，因此可信度很高。
+2025-03-14 12:57:18,912 - reverse_verify - INFO - 开始生成反向问题 - 原问题: '感冒了怎么办？
+', 关键词: ['感冒', '怎么办']
+2025-03-14 12:57:18,914 - utils.api_interaction - INFO - 尝试通过混元API生成文本: model=hunyuan-turbo, prompt长度=652, temperature=0.8
+2025-03-14 12:57:20,305 - utils.api_interaction - INFO - 成功生成文本: 长度=12, 耗时=1.39秒
+2025-03-14 12:57:20,306 - utils.api_interaction - INFO - 尝试通过混元API生成文本: model=hunyuan-turbo, prompt长度=684, temperature=0.9
+2025-03-14 12:57:21,669 - utils.api_interaction - INFO - 成功生成文本: 长度=14, 耗时=1.36秒
+2025-03-14 12:57:21,669 - utils.api_interaction - INFO - 尝试通过混元API生成文本: model=hunyuan-turbo, prompt长度=700, temperature=1.0
+2025-03-14 12:57:23,183 - utils.api_interaction - INFO - 成功生成文本: 长度=14, 耗时=1.51秒
+2025-03-14 12:57:23,193 - reverse_verify - INFO - 反向问题生成完成 - 耗时: 4.28秒, 最佳问题: '感冒了，我该怎么办才好？', 相似度: 0.7093
+2025-03-14 12:57:23,193 - reverse_verify - INFO - 验证完成 - 问题: '感冒了怎么办？
+', 相似度: 0.7093, 风险: 低风险, 耗时: 19.14秒
+2025-03-14 12:57:23,193 - utils.data_manager - INFO - 成功保存验证结果: 问题='感冒了怎么办？
+...'
+2025-03-14 12:57:32,536 - __main__ - INFO - 尝试加载历史记录, 限制数量: 25
+2025-03-14 12:57:32,538 - utils.data_manager - INFO - 从文件加载了 1 条历史记录
+2025-03-14 12:57:32,538 - __main__ - INFO - 成功加载 1 条历史记录
+2025-03-14 12:57:36,268 - __main__ - INFO - 尝试加载历史记录, 限制数量: 25
+2025-03-14 12:57:36,272 - utils.data_manager - INFO - 从文件加载了 1 条历史记录
+2025-03-14 12:57:36,276 - __main__ - INFO - 成功加载 1 条历史记录
+2025-03-14 12:57:37,019 - __main__ - INFO - 尝试加载历史记录, 限制数量: 25
+2025-03-14 12:57:37,022 - utils.data_manager - INFO - 从文件加载了 1 条历史记录
+2025-03-14 12:57:37,027 - __main__ - INFO - 成功加载 1 条历史记录
+2025-03-14 12:57:37,803 - __main__ - INFO - 尝试加载历史记录, 限制数量: 25
+2025-03-14 12:57:37,809 - utils.data_manager - INFO - 从文件加载了 1 条历史记录
+2025-03-14 12:57:37,809 - __main__ - INFO - 成功加载 1 条历史记录
+2025-03-14 12:57:41,949 - __main__ - INFO - 尝试加载历史记录, 限制数量: 25
+2025-03-14 12:57:41,951 - utils.data_manager - INFO - 从文件加载了 1 条历史记录
+2025-03-14 12:57:41,951 - __main__ - INFO - 成功加载 1 条历史记录
+2025-03-14 12:59:27,419 - __main__ - INFO - 尝试加载历史记录, 限制数量: 20
+2025-03-14 12:59:27,423 - utils.data_manager - INFO - 从文件加载了 1 条历史记录
+2025-03-14 12:59:27,423 - __main__ - INFO - 成功加载 1 条历史记录
+2025-03-14 12:59:37,714 - reverse_verify - INFO - 开始验证问题: '感冒了怎么办？
+'
+2025-03-14 12:59:37,715 - reverse_verify - INFO - 问题分析 - 关键词: ['感冒', '怎么办'], 实体: []
+2025-03-14 12:59:37,715 - utils.api_interaction - INFO - 尝试通过混元API生成文本: model=hunyuan-turbo, prompt长度=15, temperature=0.7
+2025-03-14 12:59:47,899 - utils.api_interaction - INFO - 成功生成文本: 长度=575, 耗时=10.18秒
+2025-03-14 12:59:47,899 - utils.api_interaction - INFO - 尝试通过混元API生成文本: model=hunyuan-turbo, prompt长度=651, temperature=0.3
+2025-03-14 12:59:51,234 - utils.api_interaction - INFO - 成功生成文本: 长度=117, 耗时=3.33秒
+2025-03-14 12:59:51,235 - reverse_verify - INFO - 答案事实性评分: 9/10, 理由: 该陈述详细准确地描述了感冒的症状、一般治疗、对症治疗、药物治疗及注意事项。内容基于常见的医学知识，且提供了合理的建议和治疗方案。唯一的不足可能是未提及具体的病毒种类（如鼻病毒、冠状病毒等），但这并不影响其整体的可信度。
+2025-03-14 12:59:51,235 - reverse_verify - INFO - 开始生成反向问题 - 原问题: '感冒了怎么办？
+', 关键词: ['感冒', '怎么办']
+2025-03-14 12:59:51,235 - utils.api_interaction - INFO - 尝试通过混元API生成文本: model=hunyuan-turbo, prompt长度=646, temperature=0.8
+2025-03-14 12:59:52,721 - utils.api_interaction - INFO - 成功生成文本: 长度=12, 耗时=1.49秒
+2025-03-14 12:59:52,721 - utils.api_interaction - INFO - 尝试通过混元API生成文本: model=hunyuan-turbo, prompt长度=678, temperature=0.9
+2025-03-14 12:59:54,142 - utils.api_interaction - INFO - 成功生成文本: 长度=14, 耗时=1.42秒
+2025-03-14 12:59:54,147 - utils.api_interaction - INFO - 尝试通过混元API生成文本: model=hunyuan-turbo, prompt长度=694, temperature=1.0
+2025-03-14 12:59:56,240 - utils.api_interaction - INFO - 成功生成文本: 长度=14, 耗时=2.09秒
+2025-03-14 12:59:56,262 - reverse_verify - INFO - 反向问题生成完成 - 耗时: 5.03秒, 最佳问题: '感冒了，我该怎么办才好？', 相似度: 0.7093
+2025-03-14 12:59:56,262 - reverse_verify - INFO - 验证完成 - 问题: '感冒了怎么办？
+', 相似度: 0.7093, 风险: 低风险, 耗时: 18.55秒
+2025-03-14 12:59:56,264 - utils.data_manager - INFO - 成功保存验证结果: 问题='感冒了怎么办？
+...'
+2025-03-14 13:02:15,496 - __main__ - INFO - 尝试加载历史记录, 限制数量: 20
+2025-03-14 13:02:15,498 - utils.data_manager - INFO - 从文件加载了 2 条历史记录
+2025-03-14 13:02:15,503 - __main__ - INFO - 成功加载 2 条历史记录
+2025-03-14 13:04:15,598 - __main__ - INFO - 尝试加载历史记录, 限制数量: 20
+2025-03-14 13:04:15,600 - utils.data_manager - INFO - 从文件加载了 2 条历史记录
+2025-03-14 13:04:15,600 - __main__ - INFO - 成功加载 2 条历史记录
+2025-03-14 13:04:17,382 - __main__ - INFO - 尝试加载历史记录, 限制数量: 20
+2025-03-14 13:04:17,384 - utils.data_manager - INFO - 从文件加载了 2 条历史记录
+2025-03-14 13:04:17,384 - __main__ - INFO - 成功加载 2 条历史记录
+2025-03-14 13:04:17,911 - __main__ - INFO - 尝试加载历史记录, 限制数量: 20
+2025-03-14 13:04:17,913 - utils.data_manager - INFO - 从文件加载了 2 条历史记录
+2025-03-14 13:04:17,914 - __main__ - INFO - 成功加载 2 条历史记录
+2025-03-14 13:04:18,166 - __main__ - INFO - 尝试加载历史记录, 限制数量: 20
+2025-03-14 13:04:18,168 - utils.data_manager - INFO - 从文件加载了 2 条历史记录
+2025-03-14 13:04:18,168 - __main__ - INFO - 成功加载 2 条历史记录
+2025-03-14 13:04:30,401 - reverse_verify - INFO - 开始验证问题: '感冒了怎么办'
+2025-03-14 13:04:30,401 - reverse_verify - INFO - 问题分析 - 关键词: ['感冒', '怎么办'], 实体: []
+2025-03-14 13:04:30,401 - utils.api_interaction - INFO - 尝试通过混元API生成文本: model=hunyuan-turbo, prompt长度=13, temperature=0.7
+2025-03-14 13:04:39,154 - utils.api_interaction - INFO - 成功生成文本: 长度=450, 耗时=8.75秒
+2025-03-14 13:04:39,160 - utils.api_interaction - INFO - 尝试通过混元API生成文本: model=hunyuan-turbo, prompt长度=526, temperature=0.3
+2025-03-14 13:04:44,404 - utils.api_interaction - INFO - 成功生成文本: 长度=146, 耗时=5.24秒
+2025-03-14 13:04:44,408 - reverse_verify - INFO - 答案事实性评分: 9/10, 理由: 该陈述提供了关于感冒的常见症状、缓解方法和预防措施的详细信息，内容准确且实用。建议包括多休息、多喝水、多漱口等，符合医学常识和临床实践。此外，预防感冒的小知识也非常全面，涵盖了生活习惯、饮食和疫苗接种等方面。唯一的不足是没有提到具体的药物治疗建议，但这并不影响其整体的可信度。
+2025-03-14 13:04:44,408 - reverse_verify - INFO - 开始生成反向问题 - 原问题: '感冒了怎么办', 关键词: ['感冒', '怎么办']
+2025-03-14 13:04:44,409 - utils.api_interaction - INFO - 尝试通过混元API生成文本: model=hunyuan-turbo, prompt长度=521, temperature=0.8
+2025-03-14 13:04:46,167 - utils.api_interaction - INFO - 成功生成文本: 长度=15, 耗时=1.76秒
+2025-03-14 13:04:46,168 - utils.api_interaction - INFO - 尝试通过混元API生成文本: model=hunyuan-turbo, prompt长度=556, temperature=0.9
+2025-03-14 13:04:47,483 - utils.api_interaction - INFO - 成功生成文本: 长度=13, 耗时=1.31秒
+2025-03-14 13:04:47,489 - utils.api_interaction - INFO - 尝试通过混元API生成文本: model=hunyuan-turbo, prompt长度=571, temperature=1.0
+2025-03-14 13:04:49,060 - utils.api_interaction - INFO - 成功生成文本: 长度=14, 耗时=1.57秒
+2025-03-14 13:04:49,064 - reverse_verify - INFO - 反向问题生成完成 - 耗时: 4.66秒, 最佳问题: '感冒了怎么办？有哪些缓解方法？', 相似度: 0.5023
+2025-03-14 13:04:49,064 - reverse_verify - INFO - 验证完成 - 问题: '感冒了怎么办', 相似度: 0.5023, 风险: 低风险, 耗时: 18.66秒
+2025-03-14 13:04:49,068 - utils.data_manager - INFO - 成功保存验证结果: 问题='感冒了怎么办...'
+2025-03-14 13:04:57,506 - __main__ - INFO - 尝试加载历史记录, 限制数量: 20
+2025-03-14 13:04:57,510 - utils.data_manager - INFO - 从文件加载了 3 条历史记录
+2025-03-14 13:04:57,514 - __main__ - INFO - 成功加载 3 条历史记录
+2025-03-14 13:04:58,792 - __main__ - INFO - 尝试加载历史记录, 限制数量: 20
+2025-03-14 13:04:58,797 - utils.data_manager - INFO - 从文件加载了 3 条历史记录
+2025-03-14 13:04:58,798 - __main__ - INFO - 成功加载 3 条历史记录
+2025-03-14 13:07:05,407 - __main__ - INFO - 尝试加载历史记录, 限制数量: 20
+2025-03-14 13:07:05,408 - __main__ - WARNING - 历史记录文件为空
+2025-03-14 13:07:07,925 - reverse_verify - INFO - 开始验证问题: '感冒了怎么办'
+2025-03-14 13:07:07,925 - reverse_verify - INFO - 问题分析 - 关键词: ['感冒', '怎么办'], 实体: []
+2025-03-14 13:07:07,926 - utils.api_interaction - INFO - 尝试通过混元API生成文本: model=hunyuan-turbo, prompt长度=13, temperature=0.7
+2025-03-14 13:07:17,840 - utils.api_interaction - INFO - 成功生成文本: 长度=555, 耗时=9.91秒
+2025-03-14 13:07:17,840 - utils.api_interaction - INFO - 尝试通过混元API生成文本: model=hunyuan-turbo, prompt长度=631, temperature=0.3
+2025-03-14 13:07:23,484 - utils.api_interaction - INFO - 成功生成文本: 长度=173, 耗时=5.64秒
+2025-03-14 13:07:23,484 - reverse_verify - INFO - 答案事实性评分: 9/10, 理由: 该陈述详细列出了感冒的常见症状、缓解方法、预防措施以及常见误区，内容准确且符合医学常识。大部分建议如多休息、多喝水、勤洗手等都是公认的有效方法。此外，提醒患者在症状严重时及时就医也是负责任的建议。唯一的小缺点是，虽然提到了接种疫苗预防流感，但没有明确区分普通感冒和流感，这两者在预防和治疗上有所不同。但总体来说，该陈述非常可信。
+2025-03-14 13:07:23,484 - reverse_verify - INFO - 开始生成反向问题 - 原问题: '感冒了怎么办', 关键词: ['感冒', '怎么办']
+2025-03-14 13:07:23,484 - utils.api_interaction - INFO - 尝试通过混元API生成文本: model=hunyuan-turbo, prompt长度=626, temperature=0.8
+2025-03-14 13:07:24,808 - utils.api_interaction - INFO - 成功生成文本: 长度=12, 耗时=1.32秒
+2025-03-14 13:07:24,808 - utils.api_interaction - INFO - 尝试通过混元API生成文本: model=hunyuan-turbo, prompt长度=658, temperature=0.9
+2025-03-14 13:07:26,476 - utils.api_interaction - INFO - 成功生成文本: 长度=14, 耗时=1.67秒
+2025-03-14 13:07:26,489 - utils.api_interaction - INFO - 尝试通过混元API生成文本: model=hunyuan-turbo, prompt长度=674, temperature=1.0
+2025-03-14 13:07:28,184 - utils.api_interaction - INFO - 成功生成文本: 长度=14, 耗时=1.69秒
+2025-03-14 13:07:28,202 - reverse_verify - INFO - 反向问题生成完成 - 耗时: 4.72秒, 最佳问题: '感冒了，我该怎么办才好？', 相似度: 0.7093
+2025-03-14 13:07:28,203 - reverse_verify - INFO - 验证完成 - 问题: '感冒了怎么办', 相似度: 0.7093, 风险: 低风险, 耗时: 20.28秒
+2025-03-14 13:07:28,209 - utils.data_manager - INFO - 成功保存验证结果: 问题='感冒了怎么办...'
+2025-03-14 13:07:38,025 - __main__ - INFO - 尝试加载历史记录, 限制数量: 20
+2025-03-14 13:07:38,033 - utils.data_manager - INFO - 从文件加载了 0 条历史记录
+2025-03-14 13:07:38,033 - __main__ - INFO - 成功加载 0 条历史记录
+2025-03-14 13:07:38,960 - __main__ - INFO - 尝试加载历史记录, 限制数量: 20
+2025-03-14 13:07:38,962 - utils.data_manager - INFO - 从文件加载了 0 条历史记录
+2025-03-14 13:07:38,962 - __main__ - INFO - 成功加载 0 条历史记录
+2025-03-14 13:07:40,004 - __main__ - INFO - 尝试加载历史记录, 限制数量: 20
+2025-03-14 13:07:40,012 - utils.data_manager - INFO - 从文件加载了 0 条历史记录
+2025-03-14 13:07:40,013 - __main__ - INFO - 成功加载 0 条历史记录
+2025-03-14 13:07:40,258 - __main__ - INFO - 尝试加载历史记录, 限制数量: 20
+2025-03-14 13:07:40,263 - utils.data_manager - INFO - 从文件加载了 0 条历史记录
+2025-03-14 13:07:40,267 - __main__ - INFO - 成功加载 0 条历史记录
+2025-03-14 13:07:41,396 - __main__ - INFO - 尝试加载历史记录, 限制数量: 20
+2025-03-14 13:07:41,404 - utils.data_manager - INFO - 从文件加载了 0 条历史记录
+2025-03-14 13:07:41,404 - __main__ - INFO - 成功加载 0 条历史记录
+2025-03-14 13:10:30,674 - __main__ - INFO - 尝试加载历史记录, 限制数量: 20
+2025-03-14 13:10:30,678 - utils.data_manager - INFO - 从文件加载了 0 条历史记录
+2025-03-14 13:10:30,679 - __main__ - INFO - 成功加载 0 条历史记录
+2025-03-14 13:10:32,837 - __main__ - INFO - 尝试加载历史记录, 限制数量: 20
+2025-03-14 13:10:32,838 - utils.data_manager - INFO - 从文件加载了 0 条历史记录
+2025-03-14 13:10:32,838 - __main__ - INFO - 成功加载 0 条历史记录
+2025-03-14 13:10:33,594 - __main__ - INFO - 尝试加载历史记录, 限制数量: 20
+2025-03-14 13:10:33,596 - utils.data_manager - INFO - 从文件加载了 0 条历史记录
+2025-03-14 13:10:33,598 - __main__ - INFO - 成功加载 0 条历史记录
+2025-03-14 13:10:33,882 - __main__ - INFO - 尝试加载历史记录, 限制数量: 20
+2025-03-14 13:10:33,884 - utils.data_manager - INFO - 从文件加载了 0 条历史记录
+2025-03-14 13:10:33,884 - __main__ - INFO - 成功加载 0 条历史记录
+2025-03-14 13:10:42,014 - utils.data_manager - INFO - 历史记录已备份到 data\history.csv.20250314131042.bak
+2025-03-14 13:11:57,125 - utils.knowledge_base - INFO - 从 data\knowledge.json 加载了 33 条知识
+2025-03-14 13:11:57,125 - __main__ - INFO - 成功加载中文字体文件
+2025-03-14 13:11:57,125 - __main__ - WARNING - 配置中文字体失败: module 'matplotlib.font_manager' has no attribute '_rebuild'
+2025-03-14 13:11:57,125 - __main__ - INFO - 目录 data 已创建并可写入
+2025-03-14 13:11:57,125 - __main__ - INFO - 目录 logs 已创建并可写入
+2025-03-14 13:11:57,125 - utils.knowledge_base - INFO - 从 data\knowledge.json 加载了 33 条知识
+2025-03-14 13:11:57,141 - __main__ - WARNING - 历史记录文件不存在: data\history.csv
+2025-03-14 13:12:02,232 - __main__ - INFO - 应用程序启动，初始化界面
+2025-03-14 13:12:02,232 - __main__ - INFO - 尝试加载历史记录, 限制数量: 20
+2025-03-14 13:12:02,232 - __main__ - WARNING - 历史记录文件不存在: data\history.csv
+2025-03-14 13:12:07,622 - __main__ - INFO - 手动刷新历史记录
+2025-03-14 13:12:07,622 - __main__ - INFO - 尝试加载历史记录, 限制数量: 20
+2025-03-14 13:12:07,622 - __main__ - WARNING - 历史记录文件不存在: data\history.csv
+2025-03-14 13:12:07,623 - __main__ - WARNING - 刷新历史记录后无数据
+2025-03-14 13:12:13,938 - reverse_verify - INFO - 开始验证问题: '感冒了怎么办？'
+2025-03-14 13:12:13,939 - reverse_verify - INFO - 问题分析 - 关键词: ['感冒', '怎么办'], 实体: []
+2025-03-14 13:12:13,939 - utils.api_interaction - INFO - 尝试通过混元API生成文本: model=hunyuan-turbo, prompt长度=14, temperature=0.7
+2025-03-14 13:12:23,252 - utils.api_interaction - INFO - 成功生成文本: 长度=634, 耗时=9.31秒
+2025-03-14 13:12:23,257 - utils.api_interaction - INFO - 尝试通过混元API生成文本: model=hunyuan-turbo, prompt长度=710, temperature=0.3
+2025-03-14 13:12:30,287 - utils.api_interaction - INFO - 成功生成文本: 长度=161, 耗时=7.03秒
+2025-03-14 13:12:30,290 - reverse_verify - INFO - 答案事实性评分: 9/10, 理由: 该陈述详细准确地描述了感冒的症状、一般治疗、对症治疗、药物治疗及注意事项。内容基于广泛的医学常识和临床实践，且提供了合理的建议和预防措施。仅有一处可优化的地方，即“孕妇、哺乳期妇女、儿童或有基础疾病的人群在使用任何药物前应咨询医生”可进一步强调包括中药在内的所有药物，以确保安全。但总体上，该陈述非常可信。
+2025-03-14 13:12:30,291 - reverse_verify - INFO - 开始生成反向问题 - 原问题: '感冒了怎么办？', 关键词: ['感冒', '怎么办']
+2025-03-14 13:12:30,291 - utils.api_interaction - INFO - 尝试通过混元API生成文本: model=hunyuan-turbo, prompt长度=705, temperature=0.8
+2025-03-14 13:12:31,951 - utils.api_interaction - INFO - 成功生成文本: 长度=12, 耗时=1.66秒
+2025-03-14 13:12:31,956 - utils.api_interaction - INFO - 尝试通过混元API生成文本: model=hunyuan-turbo, prompt长度=737, temperature=0.9
+2025-03-14 13:12:33,602 - utils.api_interaction - INFO - 成功生成文本: 长度=15, 耗时=1.65秒
+2025-03-14 13:12:33,607 - utils.api_interaction - INFO - 尝试通过混元API生成文本: model=hunyuan-turbo, prompt长度=754, temperature=1.0
+2025-03-14 13:12:34,907 - utils.api_interaction - INFO - 成功生成文本: 长度=14, 耗时=1.30秒
+2025-03-14 13:12:34,951 - reverse_verify - INFO - 反向问题生成完成 - 耗时: 4.66秒, 最佳问题: '感冒了，我该怎么办才好？', 相似度: 0.7093
+2025-03-14 13:12:34,951 - reverse_verify - INFO - 验证完成 - 问题: '感冒了怎么办？', 相似度: 0.7093, 风险: 低风险, 耗时: 21.01秒
+2025-03-14 13:12:34,952 - utils.data_manager - INFO - 尝试保存验证结果: 感冒了怎么办？...
+2025-03-14 13:12:34,952 - utils.data_manager - INFO - 历史文件路径: data\history.csv
+2025-03-14 13:12:34,965 - utils.data_manager - INFO - 成功保存到历史文件: data\history.csv
+2025-03-14 13:12:34,966 - utils.data_manager - INFO - 历史文件存在，大小: 3175 字节
+2025-03-14 13:12:55,135 - __main__ - INFO - 手动刷新历史记录
+2025-03-14 13:12:55,135 - __main__ - INFO - 尝试加载历史记录, 限制数量: 20
+2025-03-14 13:12:55,142 - __main__ - INFO - 成功读取历史文件，记录数：1
+2025-03-14 13:12:55,143 - __main__ - INFO - 成功加载 1 条历史记录
+2025-03-14 13:12:55,143 - __main__ - INFO - 绘制相似度直方图，数据: [0.7092972666062739]...
+2025-03-14 13:12:55,564 - __main__ - INFO - 成功保存风险饼图: data\risk_pie_chart.png
+2025-03-14 13:12:55,564 - __main__ - INFO - 刷新成功，加载了 1 条记录
+2025-03-14 13:13:42,030 - __main__ - INFO - 手动刷新历史记录
+2025-03-14 13:13:42,031 - __main__ - INFO - 尝试加载历史记录, 限制数量: 20
+2025-03-14 13:13:42,031 - __main__ - INFO - 成功读取历史文件，记录数：1
+2025-03-14 13:13:42,031 - __main__ - INFO - 成功加载 1 条历史记录
+2025-03-14 13:13:42,031 - __main__ - INFO - 绘制相似度直方图，数据: [0.7092972666062739]...
+2025-03-14 13:13:42,113 - __main__ - INFO - 成功保存风险饼图: data\risk_pie_chart.png
+2025-03-14 13:13:42,113 - __main__ - INFO - 刷新成功，加载了 1 条记录
+2025-03-14 13:13:43,712 - __main__ - INFO - 已清理历史记录文件
+2025-03-14 13:13:43,712 - __main__ - INFO - 手动刷新历史记录
+2025-03-14 13:13:43,712 - __main__ - INFO - 尝试加载历史记录, 限制数量: 20
+2025-03-14 13:13:43,713 - __main__ - INFO - 成功读取历史文件，记录数：1
+2025-03-14 13:13:43,714 - __main__ - INFO - 成功加载 1 条历史记录
+2025-03-14 13:13:43,714 - __main__ - INFO - 绘制相似度直方图，数据: [0.7092972666062739]...
+2025-03-14 13:13:43,802 - __main__ - INFO - 成功保存风险饼图: data\risk_pie_chart.png
+2025-03-14 13:13:43,802 - __main__ - INFO - 刷新成功，加载了 1 条记录
+2025-03-14 13:13:45,305 - __main__ - INFO - 已清理历史记录文件
+2025-03-14 13:13:45,305 - __main__ - INFO - 手动刷新历史记录
+2025-03-14 13:13:45,305 - __main__ - INFO - 尝试加载历史记录, 限制数量: 20
+2025-03-14 13:13:45,313 - __main__ - INFO - 成功读取历史文件，记录数：1
+2025-03-14 13:13:45,313 - __main__ - INFO - 成功加载 1 条历史记录
+2025-03-14 13:13:45,313 - __main__ - INFO - 绘制相似度直方图，数据: [0.7092972666062739]...
+2025-03-14 13:13:45,790 - __main__ - INFO - 成功保存风险饼图: data\risk_pie_chart.png
+2025-03-14 13:13:45,790 - __main__ - INFO - 刷新成功，加载了 1 条记录
+2025-03-14 13:13:50,256 - __main__ - INFO - 手动刷新历史记录
+2025-03-14 13:13:50,256 - __main__ - INFO - 尝试加载历史记录, 限制数量: 20
+2025-03-14 13:13:50,259 - __main__ - INFO - 成功读取历史文件，记录数：1
+2025-03-14 13:13:50,263 - __main__ - INFO - 成功加载 1 条历史记录
+2025-03-14 13:13:50,263 - __main__ - INFO - 绘制相似度直方图，数据: [0.7092972666062739]...
+2025-03-14 13:13:50,780 - __main__ - INFO - 成功保存风险饼图: data\risk_pie_chart.png
+2025-03-14 13:13:50,780 - __main__ - INFO - 刷新成功，加载了 1 条记录
+2025-03-14 13:14:02,293 - __main__ - INFO - 统计数据类型: <class 'dict'>, 内容: {'total_queries': 1, 'high_risk_queries': 0, 'low_risk_queries': 1, 'average_similarity': 0.7092972666062739, 'last_updated': '2025-03-14 13:14:02'}
+2025-03-14 13:14:21,054 - utils.knowledge_base - INFO - 知识库已导出到 data\knowledge_export.csv，共 33 条记录
+2025-03-14 13:15:55,887 - utils.knowledge_base - INFO - 从 data\knowledge.json 加载了 33 条知识
+2025-03-14 13:15:55,887 - __main__ - INFO - 成功加载中文字体文件
+2025-03-14 13:15:55,887 - __main__ - WARNING - 配置中文字体失败: module 'matplotlib.font_manager' has no attribute '_rebuild'
+2025-03-14 13:15:55,887 - __main__ - INFO - 目录 data 已创建并可写入
+2025-03-14 13:15:55,887 - __main__ - INFO - 目录 logs 已创建并可写入
+2025-03-14 13:15:55,887 - utils.knowledge_base - INFO - 从 data\knowledge.json 加载了 33 条知识
+2025-03-14 13:15:55,902 - __main__ - INFO - 已清理历史记录文件
+2025-03-14 13:15:59,213 - __main__ - INFO - 应用程序启动，初始化界面
+2025-03-14 13:15:59,213 - __main__ - INFO - 尝试加载历史记录, 限制数量: 20
+2025-03-14 13:15:59,215 - __main__ - INFO - 成功读取历史文件，记录数：1
+2025-03-14 13:15:59,216 - __main__ - INFO - 成功加载 1 条历史记录
+2025-03-14 13:15:59,216 - __main__ - INFO - 绘制相似度直方图，数据: [0.7092972666062739]...
+2025-03-14 13:15:59,407 - __main__ - INFO - 成功保存风险饼图: data\risk_pie_chart.png
+2025-03-14 13:16:58,064 - __main__ - INFO - 应用程序启动，初始化界面
+2025-03-14 13:16:58,064 - __main__ - INFO - 尝试加载历史记录, 限制数量: 20
+2025-03-14 13:16:58,065 - __main__ - INFO - 成功读取历史文件，记录数：1
+2025-03-14 13:16:58,066 - __main__ - INFO - 成功加载 1 条历史记录
+2025-03-14 13:16:58,066 - __main__ - INFO - 绘制相似度直方图，数据: [0.7092972666062739]...
+2025-03-14 13:16:58,238 - __main__ - INFO - 成功保存风险饼图: data\risk_pie_chart.png
+2025-03-14 13:17:22,148 - utils.knowledge_base - INFO - 从 data\knowledge.json 加载了 33 条知识
+2025-03-14 13:17:22,148 - __main__ - INFO - 成功加载中文字体文件
+2025-03-14 13:17:22,148 - __main__ - WARNING - 配置中文字体失败: module 'matplotlib.font_manager' has no attribute '_rebuild'
+2025-03-14 13:17:22,148 - __main__ - INFO - 目录 data 已创建并可写入
+2025-03-14 13:17:22,148 - __main__ - INFO - 目录 logs 已创建并可写入
+2025-03-14 13:17:22,148 - utils.knowledge_base - INFO - 从 data\knowledge.json 加载了 33 条知识
+2025-03-14 13:17:22,163 - __main__ - INFO - 已清理历史记录文件
+2025-03-14 13:17:25,113 - __main__ - INFO - 应用程序启动，初始化界面
+2025-03-14 13:17:25,113 - __main__ - INFO - 尝试加载历史记录, 限制数量: 20
+2025-03-14 13:17:25,115 - __main__ - INFO - 成功读取历史文件，记录数：1
+2025-03-14 13:17:25,115 - __main__ - INFO - 成功加载 1 条历史记录
+2025-03-14 13:17:25,115 - __main__ - INFO - 绘制相似度直方图，数据: [0.7092972666062739]...
+2025-03-14 13:17:25,300 - __main__ - INFO - 成功保存风险饼图: data\risk_pie_chart.png
+2025-03-14 13:17:32,940 - __main__ - INFO - 手动刷新历史记录
+2025-03-14 13:17:32,940 - __main__ - INFO - 尝试加载历史记录, 限制数量: 20
+2025-03-14 13:17:32,944 - __main__ - INFO - 成功读取历史文件，记录数：1
+2025-03-14 13:17:32,947 - __main__ - INFO - 成功加载 1 条历史记录
+2025-03-14 13:17:32,947 - __main__ - INFO - 绘制相似度直方图，数据: [0.7092972666062739]...
+2025-03-14 13:17:33,750 - __main__ - INFO - 成功保存风险饼图: data\risk_pie_chart.png
+2025-03-14 13:17:33,750 - __main__ - INFO - 刷新成功，加载了 1 条记录
+2025-03-14 13:17:51,291 - __main__ - INFO - 统计数据类型: <class 'dict'>, 内容: {'total_queries': 1, 'high_risk_queries': 0, 'low_risk_queries': 1, 'average_similarity': 0.7092972666062739, 'last_updated': '2025-03-14 13:17:51'}
+2025-03-14 13:21:14,221 - utils.knowledge_base - INFO - 从 data\knowledge.json 加载了 33 条知识
+2025-03-14 13:21:14,221 - __main__ - INFO - 成功加载中文字体文件
+2025-03-14 13:21:14,221 - __main__ - WARNING - 配置中文字体失败: module 'matplotlib.font_manager' has no attribute '_rebuild'
+2025-03-14 13:21:14,221 - __main__ - INFO - 目录 data 已创建并可写入
+2025-03-14 13:21:14,221 - __main__ - INFO - 目录 logs 已创建并可写入
+2025-03-14 13:21:14,221 - utils.knowledge_base - INFO - 从 data\knowledge.json 加载了 33 条知识
+2025-03-14 13:21:14,237 - __main__ - INFO - 已清理历史记录文件
+2025-03-14 13:22:04,454 - utils.knowledge_base - INFO - 从 data\knowledge.json 加载了 33 条知识
+2025-03-14 13:22:04,454 - __main__ - INFO - 成功加载中文字体文件
+2025-03-14 13:22:04,454 - __main__ - WARNING - 配置中文字体失败: module 'matplotlib.font_manager' has no attribute '_rebuild'
+2025-03-14 13:22:04,454 - __main__ - INFO - 目录 data 已创建并可写入
+2025-03-14 13:22:04,458 - __main__ - INFO - 目录 logs 已创建并可写入
+2025-03-14 13:22:04,458 - utils.knowledge_base - INFO - 从 data\knowledge.json 加载了 33 条知识
+2025-03-14 13:22:04,462 - __main__ - INFO - 已清理历史记录文件
+2025-03-14 13:22:19,024 - utils.knowledge_base - INFO - 从 data\knowledge.json 加载了 33 条知识
+2025-03-14 13:22:19,024 - __main__ - INFO - 成功加载中文字体文件
+2025-03-14 13:22:19,024 - __main__ - WARNING - 配置中文字体失败: module 'matplotlib.font_manager' has no attribute '_rebuild'
+2025-03-14 13:22:19,024 - __main__ - INFO - 目录 data 已创建并可写入
+2025-03-14 13:22:19,026 - __main__ - INFO - 目录 logs 已创建并可写入
+2025-03-14 13:22:19,026 - utils.knowledge_base - INFO - 从 data\knowledge.json 加载了 33 条知识
+2025-03-14 13:22:19,035 - __main__ - INFO - 已清理历史记录文件
+2025-03-14 13:22:53,487 - utils.knowledge_base - INFO - 从 data\knowledge.json 加载了 33 条知识
+2025-03-14 13:22:53,487 - __main__ - INFO - 成功加载中文字体文件
+2025-03-14 13:22:53,487 - __main__ - WARNING - 配置中文字体失败: module 'matplotlib.font_manager' has no attribute '_rebuild'
+2025-03-14 13:22:53,487 - __main__ - INFO - 目录 data 已创建并可写入
+2025-03-14 13:22:53,487 - __main__ - INFO - 目录 logs 已创建并可写入
+2025-03-14 13:22:53,487 - utils.knowledge_base - INFO - 从 data\knowledge.json 加载了 33 条知识
+2025-03-14 13:22:53,487 - __main__ - INFO - 已清理历史记录文件
+2025-03-14 13:22:58,029 - __main__ - INFO - 应用程序启动，初始化界面
+2025-03-14 13:22:58,029 - __main__ - INFO - 尝试加载历史记录, 限制数量: 20
+2025-03-14 13:22:58,029 - __main__ - INFO - 成功读取历史文件，记录数：1
+2025-03-14 13:22:58,029 - __main__ - INFO - 成功加载 1 条历史记录
+2025-03-14 13:22:58,029 - __main__ - INFO - 绘制相似度直方图，数据: [0.7092972666062739]...
+2025-03-14 13:22:58,207 - __main__ - INFO - 成功保存风险饼图: data\risk_pie_chart.png
+2025-03-14 13:23:30,796 - reverse_verify - INFO - 开始验证问题: '头晕眼花，脚扑朔迷离，是得癌症了吗？'
+2025-03-14 13:23:30,799 - reverse_verify - INFO - 问题分析 - 关键词: ['癌症', '头晕眼花', '扑朔迷离'], 实体: []
+2025-03-14 13:23:30,805 - utils.api_interaction - INFO - 尝试通过混元API生成文本: model=hunyuan-turbo, prompt长度=25, temperature=0.7
+2025-03-14 13:23:40,208 - utils.api_interaction - INFO - 成功生成文本: 长度=358, 耗时=9.40秒
+2025-03-14 13:23:40,213 - reverse_verify - WARNING - 答案与知识库冲突 - 答案可能与已知信息冲突: 癌症 - 目前没有简单的治愈方法，需要专业医疗团队制定综合治疗方案
+2025-03-14 13:23:40,215 - utils.api_interaction - INFO - 尝试通过混元API生成文本: model=hunyuan-turbo, prompt长度=434, temperature=0.3
+2025-03-14 13:23:48,087 - utils.api_interaction - INFO - 成功生成文本: 长度=129, 耗时=7.87秒
+2025-03-14 13:23:48,092 - reverse_verify - INFO - 答案事实性评分: 9/10, 理由: 该陈述详细列举了头晕眼花和脚麻的多种可能原因，包括癌症和其他常见病症。陈述内容准确，科学依据充分，没有夸大或缩小范围，因此具有很高的可信度。仅因癌症相关症状的描述可能让部分读者产生误解，认为这些症状主要与癌症相关，但整体而言，该陈述是可信的。
+2025-03-14 13:23:48,092 - reverse_verify - INFO - 开始生成反向问题 - 原问题: '头晕眼花，脚扑朔迷离，是得癌症了吗？', 关键词: ['癌症', '头晕眼花', '扑朔迷离']
+2025-03-14 13:23:48,095 - utils.api_interaction - INFO - 尝试通过混元API生成文本: model=hunyuan-turbo, prompt长度=430, temperature=0.8
+2025-03-14 13:23:49,947 - utils.api_interaction - INFO - 成功生成文本: 长度=13, 耗时=1.85秒
+2025-03-14 13:23:49,962 - utils.api_interaction - INFO - 尝试通过混元API生成文本: model=hunyuan-turbo, prompt长度=463, temperature=0.9
+2025-03-14 13:23:51,446 - utils.api_interaction - INFO - 成功生成文本: 长度=12, 耗时=1.48秒
+2025-03-14 13:23:51,446 - utils.api_interaction - INFO - 尝试通过混元API生成文本: model=hunyuan-turbo, prompt长度=477, temperature=1.0
+2025-03-14 13:23:53,128 - utils.api_interaction - INFO - 成功生成文本: 长度=12, 耗时=1.67秒
+2025-03-14 13:23:53,143 - reverse_verify - INFO - 反向问题生成完成 - 耗时: 5.05秒, 最佳问题: '头晕眼花脚麻会是癌症吗？', 相似度: 0.5031
+2025-03-14 13:23:53,143 - reverse_verify - INFO - 验证完成 - 问题: '头晕眼花，脚扑朔迷离，是得癌症了吗？', 相似度: 0.5031, 风险: 低风险, 耗时: 22.35秒
+2025-03-14 13:23:53,144 - utils.data_manager - INFO - 尝试保存验证结果: 头晕眼花，脚扑朔迷离，是得癌症了吗？...
+2025-03-14 13:23:53,144 - utils.data_manager - INFO - 历史文件路径: data\history.csv
+2025-03-14 13:23:53,145 - utils.data_manager - INFO - 成功保存到历史文件: data\history.csv
+2025-03-14 13:23:53,145 - utils.data_manager - INFO - 历史文件存在，大小: 5468 字节
+2025-03-14 13:25:15,915 - __main__ - INFO - 手动刷新历史记录
+2025-03-14 13:25:15,915 - __main__ - INFO - 尝试加载历史记录, 限制数量: 20
+2025-03-14 13:25:15,919 - __main__ - INFO - 成功读取历史文件，记录数：2
+2025-03-14 13:25:15,923 - __main__ - INFO - 成功加载 2 条历史记录
+2025-03-14 13:25:15,923 - __main__ - INFO - 绘制相似度直方图，数据: [0.7092972666062739, 0.5031026124151314]...
+2025-03-14 13:25:16,748 - __main__ - INFO - 成功保存风险饼图: data\risk_pie_chart.png
+2025-03-14 13:25:16,748 - __main__ - INFO - 刷新成功，加载了 2 条记录
+2025-03-14 13:30:33,719 - utils.knowledge_base - INFO - 从 data\knowledge.json 加载了 33 条知识
+2025-03-14 13:30:33,719 - __main__ - INFO - 成功加载中文字体文件
+2025-03-14 13:30:33,719 - __main__ - WARNING - 配置中文字体失败: module 'matplotlib.font_manager' has no attribute '_rebuild'
+2025-03-14 13:30:33,719 - __main__ - INFO - 目录 data 已创建并可写入
+2025-03-14 13:30:33,719 - __main__ - INFO - 目录 logs 已创建并可写入
+2025-03-14 13:30:33,719 - utils.knowledge_base - INFO - 从 data\knowledge.json 加载了 33 条知识
+2025-03-14 13:30:33,735 - __main__ - INFO - 已清理历史记录文件
+2025-03-14 13:30:36,987 - __main__ - INFO - 应用程序启动，初始化界面
+2025-03-14 13:30:36,987 - __main__ - INFO - 尝试加载历史记录, 限制数量: 20
+2025-03-14 13:30:36,997 - __main__ - INFO - 成功读取历史文件，记录数：2
+2025-03-14 13:30:36,997 - __main__ - INFO - 成功加载 2 条历史记录
+2025-03-14 13:30:36,997 - __main__ - INFO - 绘制相似度直方图，数据: [0.7092972666062739, 0.5031026124151314]...
+2025-03-14 13:30:37,197 - __main__ - INFO - 成功保存风险饼图: data\risk_pie_chart.png
+2025-03-14 13:31:00,933 - __main__ - INFO - 统计数据类型: <class 'dict'>, 内容: {'total_queries': 2, 'high_risk_queries': 0, 'low_risk_queries': 2, 'average_similarity': 0.6061999395107027, 'last_updated': '2025-03-14 13:31:00'}
+2025-03-14 13:31:41,934 - reverse_verify - INFO - 开始验证问题: '吃饭吃多了，呕吐，饿了还需要饮食补充剂吗？'
+2025-03-14 13:31:41,941 - reverse_verify - INFO - 问题分析 - 关键词: ['补充剂', '呕吐', '饮食', '吃饭'], 实体: []
+2025-03-14 13:31:41,944 - utils.api_interaction - INFO - 尝试通过混元API生成文本: model=hunyuan-turbo, prompt长度=28, temperature=0.7
+2025-03-14 13:31:49,707 - utils.api_interaction - INFO - 成功生成文本: 长度=303, 耗时=7.76秒
+2025-03-14 13:31:49,714 - reverse_verify - WARNING - 答案与知识库冲突 - 答案可能与已知信息冲突: 饮食补充剂 - 补充剂不受严格监管，效果和安全性可能缺乏充分证据
+2025-03-14 13:31:49,716 - utils.api_interaction - INFO - 尝试通过混元API生成文本: model=hunyuan-turbo, prompt长度=379, temperature=0.3
+2025-03-14 13:31:53,214 - utils.api_interaction - INFO - 成功生成文本: 长度=105, 耗时=3.49秒
+2025-03-14 13:31:53,214 - reverse_verify - INFO - 答案事实性评分: 9/10, 理由: 该陈述提供了详细且科学的饮食恢复建议，符合医学常识。逐步恢复饮食、避免刺激性食物以及补充水分与电解质都是常见的医疗建议，有助于胃肠道的恢复。唯一的不足可能是没有强调个体差异，但总体来说非常可信。
+2025-03-14 13:31:53,226 - reverse_verify - INFO - 开始生成反向问题 - 原问题: '吃饭吃多了，呕吐，饿了还需要饮食补充剂吗？', 关键词: ['补充剂', '呕吐', '饮食']
+2025-03-14 13:31:53,229 - utils.api_interaction - INFO - 尝试通过混元API生成文本: model=hunyuan-turbo, prompt长度=374, temperature=0.8
+2025-03-14 13:31:54,580 - utils.api_interaction - INFO - 成功生成文本: 长度=10, 耗时=1.35秒
+2025-03-14 13:31:54,584 - utils.api_interaction - INFO - 尝试通过混元API生成文本: model=hunyuan-turbo, prompt长度=404, temperature=0.9
+2025-03-14 13:31:56,241 - utils.api_interaction - INFO - 成功生成文本: 长度=16, 耗时=1.65秒
+2025-03-14 13:31:56,251 - utils.api_interaction - INFO - 尝试通过混元API生成文本: model=hunyuan-turbo, prompt长度=422, temperature=1.0
+2025-03-14 13:31:57,622 - utils.api_interaction - INFO - 成功生成文本: 长度=16, 耗时=1.37秒
+2025-03-14 13:31:57,634 - reverse_verify - INFO - 反向问题生成完成 - 耗时: 4.41秒, 最佳问题: '呕吐后能吃补充剂吗？', 相似度: 0.3563
+2025-03-14 13:31:57,634 - reverse_verify - INFO - 验证完成 - 问题: '吃饭吃多了，呕吐，饿了还需要饮食补充剂吗？', 相似度: 0.3563, 风险: 高风险, 耗时: 15.70秒
+2025-03-14 13:31:57,635 - utils.data_manager - INFO - 尝试保存验证结果: 吃饭吃多了，呕吐，饿了还需要饮食补充剂吗？...
+2025-03-14 13:31:57,635 - utils.data_manager - INFO - 历史文件路径: data\history.csv
+2025-03-14 13:31:57,638 - utils.data_manager - INFO - 成功保存到历史文件: data\history.csv
+2025-03-14 13:31:57,638 - utils.data_manager - INFO - 历史文件存在，大小: 7583 字节
+2025-03-14 13:34:02,402 - __main__ - INFO - 手动刷新历史记录
+2025-03-14 13:34:02,403 - __main__ - INFO - 尝试加载历史记录, 限制数量: 20
+2025-03-14 13:34:02,404 - __main__ - INFO - 成功读取历史文件，记录数：3
+2025-03-14 13:34:02,405 - __main__ - INFO - 成功加载 3 条历史记录
+2025-03-14 13:34:02,405 - __main__ - INFO - 绘制相似度直方图，数据: [0.7092972666062739, 0.5031026124151314, 0.3563004293331381]...
+2025-03-14 13:34:02,585 - __main__ - INFO - 成功保存风险饼图: data\risk_pie_chart.png
+2025-03-14 13:34:02,715 - __main__ - INFO - 刷新成功，加载了 3 条记录
+2025-03-14 13:36:09,646 - utils.knowledge_base - INFO - 从 data\knowledge.json 加载了 33 条知识
+2025-03-14 13:36:09,646 - __main__ - INFO - 成功加载中文字体文件
+2025-03-14 13:36:09,646 - __main__ - WARNING - 配置中文字体失败: module 'matplotlib.font_manager' has no attribute '_rebuild'
+2025-03-14 13:36:09,646 - __main__ - INFO - 目录 data 已创建并可写入
+2025-03-14 13:36:09,646 - __main__ - INFO - 目录 logs 已创建并可写入
+2025-03-14 13:36:09,646 - utils.knowledge_base - INFO - 从 data\knowledge.json 加载了 33 条知识
+2025-03-14 13:36:09,658 - __main__ - INFO - 已清理历史记录文件
+2025-03-14 13:36:14,457 - __main__ - INFO - 应用程序启动，初始化界面
+2025-03-14 13:36:14,457 - __main__ - INFO - 尝试加载历史记录, 限制数量: 20
+2025-03-14 13:36:14,457 - __main__ - INFO - 成功读取历史文件，记录数：3
+2025-03-14 13:36:14,466 - __main__ - INFO - 成功加载 3 条历史记录
+2025-03-14 13:36:14,466 - __main__ - INFO - 绘制相似度直方图，数据: [0.7092972666062739, 0.5031026124151314, 0.3563004293331381]...
+2025-03-14 13:36:14,663 - __main__ - INFO - 成功保存风险饼图: data\risk_pie_chart.png
+2025-03-14 13:36:21,604 - __main__ - INFO - 应用程序启动，初始化界面
+2025-03-14 13:36:21,604 - __main__ - INFO - 尝试加载历史记录, 限制数量: 20
+2025-03-14 13:36:21,611 - __main__ - INFO - 成功读取历史文件，记录数：3
+2025-03-14 13:36:21,613 - __main__ - INFO - 成功加载 3 条历史记录
+2025-03-14 13:36:21,613 - __main__ - INFO - 绘制相似度直方图，数据: [0.7092972666062739, 0.5031026124151314, 0.3563004293331381]...
+2025-03-14 13:36:22,538 - __main__ - INFO - 成功保存风险饼图: data\risk_pie_chart.png
+2025-03-14 13:36:25,655 - __main__ - INFO - 手动刷新历史记录
+2025-03-14 13:36:25,655 - __main__ - INFO - 尝试加载历史记录, 限制数量: 20
+2025-03-14 13:36:25,656 - __main__ - INFO - 成功读取历史文件，记录数：3
+2025-03-14 13:36:25,656 - __main__ - INFO - 成功加载 3 条历史记录
+2025-03-14 13:36:25,656 - __main__ - INFO - 绘制相似度直方图，数据: [0.7092972666062739, 0.5031026124151314, 0.3563004293331381]...
+2025-03-14 13:36:25,846 - __main__ - INFO - 成功保存风险饼图: data\risk_pie_chart.png
+2025-03-14 13:36:25,975 - __main__ - INFO - 刷新成功，加载了 3 条记录
+2025-03-14 13:37:05,591 - utils.knowledge_base - INFO - 从 data\knowledge.json 加载了 33 条知识
+2025-03-14 13:37:05,591 - __main__ - INFO - 成功加载中文字体文件
+2025-03-14 13:37:05,591 - __main__ - WARNING - 配置中文字体失败: module 'matplotlib.font_manager' has no attribute '_rebuild'
+2025-03-14 13:37:05,591 - __main__ - INFO - 目录 data 已创建并可写入
+2025-03-14 13:37:05,591 - __main__ - INFO - 目录 logs 已创建并可写入
+2025-03-14 13:37:05,591 - utils.knowledge_base - INFO - 从 data\knowledge.json 加载了 33 条知识
+2025-03-14 13:37:05,610 - __main__ - INFO - 已清理历史记录文件
+2025-03-14 13:37:09,503 - __main__ - INFO - 应用程序启动，初始化界面
+2025-03-14 13:37:09,504 - __main__ - INFO - 尝试加载历史记录, 限制数量: 20
+2025-03-14 13:37:09,506 - __main__ - INFO - 成功读取历史文件，记录数：3
+2025-03-14 13:37:09,508 - __main__ - INFO - 成功加载 3 条历史记录
+2025-03-14 13:37:09,508 - __main__ - INFO - 绘制相似度直方图，数据: [0.7092972666062739, 0.5031026124151314, 0.3563004293331381]...
+2025-03-14 13:37:09,707 - __main__ - INFO - 成功保存风险饼图: data\risk_pie_chart.png
+2025-03-14 13:38:32,183 - utils.knowledge_base - INFO - 从 data\knowledge.json 加载了 33 条知识
+2025-03-14 13:38:32,183 - __main__ - INFO - 成功加载中文字体文件
+2025-03-14 13:38:32,183 - __main__ - WARNING - 配置中文字体失败: module 'matplotlib.font_manager' has no attribute '_rebuild'
+2025-03-14 13:38:32,183 - __main__ - INFO - 目录 data 已创建并可写入
+2025-03-14 13:38:32,183 - __main__ - INFO - 目录 logs 已创建并可写入
+2025-03-14 13:38:32,183 - utils.knowledge_base - INFO - 从 data\knowledge.json 加载了 33 条知识
+2025-03-14 13:38:32,198 - __main__ - INFO - 已清理历史记录文件
+2025-03-14 13:38:34,963 - __main__ - INFO - 应用程序启动，初始化界面
+2025-03-14 13:38:34,963 - __main__ - INFO - 尝试加载历史记录, 限制数量: 20
+2025-03-14 13:38:34,966 - __main__ - INFO - 成功读取历史文件，记录数：3
+2025-03-14 13:38:34,967 - __main__ - INFO - 成功加载 3 条历史记录
+2025-03-14 13:38:34,967 - __main__ - INFO - 绘制相似度直方图，数据: [0.7092972666062739, 0.5031026124151314, 0.3563004293331381]...
+2025-03-14 13:38:35,170 - __main__ - INFO - 成功保存风险饼图: data\risk_pie_chart.png
+2025-03-14 13:40:11,282 - reverse_verify - INFO - 开始验证问题: '嗓子有点咸，鼻子有流鼻涕，头脑很清醒，是感冒了吗？嗓子咸是嗓子发炎或者感冒的征兆吗？会不会是新冠？'
+2025-03-14 13:40:11,288 - reverse_verify - INFO - 问题分析 - 关键词: ['嗓子', '感冒', '流鼻涕', '发炎'], 实体: ['有点咸']
+2025-03-14 13:40:11,290 - utils.api_interaction - INFO - 尝试通过混元API生成文本: model=hunyuan-turbo, prompt长度=56, temperature=0.7
+2025-03-14 13:40:19,368 - utils.api_interaction - INFO - 成功生成文本: 长度=360, 耗时=8.08秒
+2025-03-14 13:40:19,374 - reverse_verify - WARNING - 答案与知识库冲突 - 答案可能与已知信息冲突: 新冠 - 需要遵循医生建议和官方指南，注意个人防护和公共卫生
+2025-03-14 13:40:19,379 - utils.api_interaction - INFO - 尝试通过混元API生成文本: model=hunyuan-turbo, prompt长度=436, temperature=0.3
+2025-03-14 13:40:23,974 - utils.api_interaction - INFO - 成功生成文本: 长度=146, 耗时=4.59秒
+2025-03-14 13:40:23,985 - reverse_verify - INFO - 答案事实性评分: 8/10, 理由: 该陈述对于感冒和新冠感染的症状描述较为准确，并且建议进行核酸检测或抗原检测来排除新冠感染，这是一个负责任的建议。然而，将嗓子咸直接与感冒或新冠感染联系起来可能过于武断，因为嗓子咸也可能由其他原因引起，如饮食、口腔卫生等。因此，虽然整体建议可信，但在嗓子咸的原因分析上略显片面。
+2025-03-14 13:40:23,989 - reverse_verify - INFO - 开始生成反向问题 - 原问题: '嗓子有点咸，鼻子有流鼻涕，头脑很清醒，是感冒了吗？嗓子咸是嗓子发炎或者感冒的征兆吗？会不会是新冠？', 关键词: ['嗓子', '感冒', '流鼻涕']
+2025-03-14 13:40:23,991 - utils.api_interaction - INFO - 尝试通过混元API生成文本: model=hunyuan-turbo, prompt长度=430, temperature=0.8
+2025-03-14 13:40:25,845 - utils.api_interaction - INFO - 成功生成文本: 长度=11, 耗时=1.85秒
+2025-03-14 13:40:25,857 - utils.api_interaction - INFO - 尝试通过混元API生成文本: model=hunyuan-turbo, prompt长度=461, temperature=0.9
+2025-03-14 13:40:27,769 - utils.api_interaction - INFO - 成功生成文本: 长度=14, 耗时=1.91秒
+2025-03-14 13:40:27,774 - utils.api_interaction - INFO - 尝试通过混元API生成文本: model=hunyuan-turbo, prompt长度=477, temperature=1.0
+2025-03-14 13:40:29,311 - utils.api_interaction - INFO - 成功生成文本: 长度=12, 耗时=1.53秒
+2025-03-14 13:40:29,343 - reverse_verify - INFO - 反向问题生成完成 - 耗时: 5.36秒, 最佳问题: '嗓子咸流鼻涕是感冒吗？', 相似度: 0.5963
+2025-03-14 13:40:29,344 - reverse_verify - INFO - 验证完成 - 问题: '嗓子有点咸，鼻子有流鼻涕，头脑很清醒，是感冒了吗？嗓子咸是嗓子发炎或者感冒的征兆吗？会不会是新冠？', 相似度: 0.5963, 风险: 低风险, 耗时: 18.06秒
+2025-03-14 13:40:29,348 - utils.data_manager - INFO - 尝试保存验证结果: 嗓子有点咸，鼻子有流鼻涕，头脑很清醒，是感冒了吗？嗓子咸是嗓...
+2025-03-14 13:40:29,348 - utils.data_manager - INFO - 历史文件路径: data\history.csv
+2025-03-14 13:40:29,364 - utils.data_manager - INFO - 成功保存到历史文件: data\history.csv
+2025-03-14 13:40:29,364 - utils.data_manager - INFO - 历史文件存在，大小: 10055 字节
+2025-03-14 13:40:56,663 - __main__ - INFO - 手动刷新历史记录
+2025-03-14 13:40:56,663 - __main__ - INFO - 尝试加载历史记录, 限制数量: 20
+2025-03-14 13:40:56,668 - __main__ - INFO - 成功读取历史文件，记录数：4
+2025-03-14 13:40:56,668 - __main__ - INFO - 成功加载 4 条历史记录
+2025-03-14 13:40:56,668 - __main__ - INFO - 绘制相似度直方图，数据: [0.7092972666062739, 0.5031026124151314, 0.3563004293331381, 0.5962554527605355]...
+2025-03-14 13:40:57,572 - __main__ - INFO - 成功保存风险饼图: data\risk_pie_chart.png
+2025-03-14 13:40:58,219 - __main__ - INFO - 刷新成功，加载了 4 条记录
+2025-03-14 13:41:20,355 - __main__ - INFO - 统计数据类型: <class 'dict'>, 内容: {'total_queries': 4, 'high_risk_queries': 1, 'low_risk_queries': 3, 'average_similarity': 0.5412389402787697, 'last_updated': '2025-03-14 13:41:20'}
+2025-03-14 13:43:52,871 - utils.knowledge_base - INFO - 从 data\knowledge.json 加载了 33 条知识
+2025-03-14 13:43:52,871 - __main__ - INFO - 成功加载中文字体文件
+2025-03-14 13:43:52,871 - __main__ - WARNING - 配置中文字体失败: module 'matplotlib.font_manager' has no attribute '_rebuild'
+2025-03-14 13:43:52,871 - __main__ - INFO - 目录 data 已创建并可写入
+2025-03-14 13:43:52,871 - __main__ - INFO - 目录 logs 已创建并可写入
+2025-03-14 13:43:52,871 - utils.knowledge_base - INFO - 从 data\knowledge.json 加载了 33 条知识
+2025-03-14 13:43:52,887 - __main__ - INFO - 已清理历史记录文件
+2025-03-14 13:43:56,087 - __main__ - INFO - 应用程序启动，初始化界面
+2025-03-14 13:43:56,087 - __main__ - INFO - 尝试加载历史记录, 限制数量: 20
+2025-03-14 13:43:56,089 - __main__ - INFO - 成功读取历史文件，记录数：4
+2025-03-14 13:43:56,089 - __main__ - INFO - 成功加载 4 条历史记录
+2025-03-14 13:43:56,089 - __main__ - INFO - 绘制相似度直方图，数据: [0.7092972666062739, 0.5031026124151314, 0.3563004293331381, 0.5962554527605355]...
+2025-03-14 13:43:56,291 - __main__ - INFO - 成功保存风险饼图: data\risk_pie_chart.png
+2025-03-14 13:44:44,727 - __main__ - INFO - 系统设置已保存
+2025-03-14 13:45:34,221 - reverse_verify - INFO - 开始验证问题: '站起来之后，突然的头晕，是什么原因？气血不足是什么导致的？是高血压吗？'
+2025-03-14 13:45:34,225 - reverse_verify - INFO - 问题分析 - 关键词: ['头晕', '气血', '高血压', '不足'], 实体: []
+2025-03-14 13:45:34,229 - utils.api_interaction - INFO - 尝试通过混元API生成文本: model=hunyuan-turbo, prompt长度=42, temperature=0.7
+2025-03-14 13:45:48,552 - utils.api_interaction - INFO - 成功生成文本: 长度=739, 耗时=14.32秒
+2025-03-14 13:45:48,563 - reverse_verify - WARNING - 答案与知识库冲突 - 答案可能与已知信息冲突: 高血压 - 每日定时监测血压，控制钠摄入量不超过5克/天
+2025-03-14 13:45:48,565 - utils.api_interaction - INFO - 尝试通过混元API生成文本: model=hunyuan-turbo, prompt长度=815, temperature=0.3
+2025-03-14 13:45:53,849 - utils.api_interaction - INFO - 成功生成文本: 长度=129, 耗时=5.28秒
+2025-03-14 13:45:53,857 - reverse_verify - INFO - 答案事实性评分: 9/10, 理由: 该陈述详细列举了站起来头晕的多种可能原因，包括直立性低血压、低血糖、贫血等，并对气血不足与头晕的关系进行了解释。同时，陈述也明确了站起来头晕并不一定是高血压导致的，这一观点是科学的。整体来看，该陈述内容准确、全面，逻辑清晰，具有较高的可信度。
+2025-03-14 13:45:53,858 - reverse_verify - INFO - 开始生成反向问题 - 原问题: '站起来之后，突然的头晕，是什么原因？气血不足是什么导致的？是高血压吗？', 关键词: ['头晕', '气血', '高血压']
+2025-03-14 13:45:53,862 - utils.api_interaction - INFO - 尝试通过混元API生成文本: model=hunyuan-turbo, prompt长度=809, temperature=0.8
+2025-03-14 13:45:55,682 - utils.api_interaction - INFO - 成功生成文本: 长度=12, 耗时=1.82秒
+2025-03-14 13:45:55,691 - utils.api_interaction - INFO - 尝试通过混元API生成文本: model=hunyuan-turbo, prompt长度=841, temperature=0.9
+2025-03-14 13:45:57,162 - utils.api_interaction - INFO - 成功生成文本: 长度=12, 耗时=1.47秒
+2025-03-14 13:45:57,170 - utils.api_interaction - INFO - 尝试通过混元API生成文本: model=hunyuan-turbo, prompt长度=855, temperature=1.0
+2025-03-14 13:45:58,416 - utils.api_interaction - INFO - 成功生成文本: 长度=13, 耗时=1.24秒
+2025-03-14 13:45:58,450 - reverse_verify - INFO - 反向问题生成完成 - 耗时: 4.59秒, 最佳问题: '站起来头晕是气血不足吗？', 相似度: 0.4286
+2025-03-14 13:45:58,455 - reverse_verify - INFO - 验证完成 - 问题: '站起来之后，突然的头晕，是什么原因？气血不足是什么导致的？是高血压吗？', 相似度: 0.4286, 风险: 高风险, 耗时: 24.23秒
+2025-03-14 13:45:58,461 - utils.data_manager - INFO - 尝试保存验证结果: 站起来之后，突然的头晕，是什么原因？气血不足是什么导致的？是...
+2025-03-14 13:45:58,461 - utils.data_manager - INFO - 历史文件路径: data\history.csv
+2025-03-14 13:45:58,478 - utils.data_manager - INFO - 成功保存到历史文件: data\history.csv
+2025-03-14 13:45:58,479 - utils.data_manager - INFO - 历史文件存在，大小: 13397 字节
+2025-03-14 13:47:38,638 - utils.knowledge_base - INFO - 从 data\knowledge.json 加载了 33 条知识
+2025-03-14 13:47:38,638 - __main__ - INFO - 成功加载中文字体文件
+2025-03-14 13:47:38,638 - __main__ - WARNING - 配置中文字体失败: module 'matplotlib.font_manager' has no attribute '_rebuild'
+2025-03-14 13:47:38,638 - __main__ - INFO - 目录 data 已创建并可写入
+2025-03-14 13:47:38,638 - __main__ - INFO - 目录 logs 已创建并可写入
+2025-03-14 13:47:38,638 - utils.knowledge_base - INFO - 从 data\knowledge.json 加载了 33 条知识
+2025-03-14 13:47:38,638 - __main__ - INFO - 已清理历史记录文件
+2025-03-14 13:47:42,064 - __main__ - INFO - 应用程序启动，初始化界面
+2025-03-14 13:47:42,064 - __main__ - INFO - 尝试加载历史记录, 限制数量: 20
+2025-03-14 13:47:42,066 - __main__ - INFO - 成功读取历史文件，记录数：5
+2025-03-14 13:47:42,066 - __main__ - INFO - 成功加载 5 条历史记录
+2025-03-14 13:47:42,066 - __main__ - INFO - 绘制相似度直方图，数据: [0.7092972666062739, 0.5031026124151314, 0.3563004293331381, 0.5962554527605355, 0.4285693450091423]...
+2025-03-14 13:47:42,272 - __main__ - INFO - 成功保存风险饼图: data\risk_pie_chart.png
+2025-03-14 13:47:53,246 - reverse_verify - INFO - 开始验证问题: '胸闷气短，什么情况？'
+2025-03-14 13:47:53,248 - reverse_verify - INFO - 问题分析 - 关键词: ['气短', '胸闷', '情况'], 实体: []
+2025-03-14 13:47:53,251 - utils.api_interaction - INFO - 尝试通过混元API生成文本: model=hunyuan-turbo, prompt长度=17, temperature=0.7
+2025-03-14 13:48:02,311 - utils.api_interaction - INFO - 成功生成文本: 长度=529, 耗时=9.06秒
+2025-03-14 13:48:02,319 - utils.api_interaction - INFO - 尝试通过混元API生成文本: model=hunyuan-turbo, prompt长度=605, temperature=0.3
+2025-03-14 13:48:04,656 - utils.api_interaction - INFO - 成功生成文本: 长度=69, 耗时=2.34秒
+2025-03-14 13:48:04,663 - reverse_verify - INFO - 答案事实性评分: 9/10, 理由: 该陈述详尽地列举了导致胸闷气短的多种生理性和病理性原因，并给出了合理的处理建议。内容基于医学常识，专业且全面，可信度很高。
+2025-03-14 13:48:04,664 - reverse_verify - INFO - 开始生成反向问题 - 原问题: '胸闷气短，什么情况？', 关键词: ['气短', '胸闷', '情况']
+2025-03-14 13:48:04,665 - utils.api_interaction - INFO - 尝试通过混元API生成文本: model=hunyuan-turbo, prompt长度=599, temperature=0.8
+2025-03-14 13:48:06,202 - utils.api_interaction - INFO - 成功生成文本: 长度=13, 耗时=1.53秒
+2025-03-14 13:48:06,206 - utils.api_interaction - INFO - 尝试通过混元API生成文本: model=hunyuan-turbo, prompt长度=632, temperature=0.9
+2025-03-14 13:48:07,702 - utils.api_interaction - INFO - 成功生成文本: 长度=13, 耗时=1.50秒
+2025-03-14 13:48:07,706 - utils.api_interaction - INFO - 尝试通过混元API生成文本: model=hunyuan-turbo, prompt长度=647, temperature=1.0
+2025-03-14 13:48:09,303 - utils.api_interaction - INFO - 成功生成文本: 长度=12, 耗时=1.60秒
+2025-03-14 13:48:09,311 - reverse_verify - INFO - 反向问题生成完成 - 耗时: 4.65秒, 最佳问题: '胸闷气短会是啥病导致的呢？', 相似度: 0.3361
+2025-03-14 13:48:09,311 - reverse_verify - INFO - 验证完成 - 问题: '胸闷气短，什么情况？', 相似度: 0.3361, 风险: 高风险, 耗时: 16.07秒
+2025-03-14 13:48:09,311 - utils.data_manager - INFO - 尝试保存验证结果: 胸闷气短，什么情况？...
+2025-03-14 13:48:09,311 - utils.data_manager - INFO - 历史文件路径: data\history.csv
+2025-03-14 13:48:09,314 - utils.data_manager - INFO - 成功保存到历史文件: data\history.csv
+2025-03-14 13:48:09,314 - utils.data_manager - INFO - 历史文件存在，大小: 15823 字节
+2025-03-14 13:50:34,148 - utils.knowledge_base - INFO - 从 data\knowledge.json 加载了 33 条知识
+2025-03-14 13:50:34,148 - __main__ - INFO - 成功加载中文字体文件
+2025-03-14 13:50:34,148 - __main__ - WARNING - 配置中文字体失败: module 'matplotlib.font_manager' has no attribute '_rebuild'
+2025-03-14 13:50:34,151 - __main__ - INFO - 目录 data 已创建并可写入
+2025-03-14 13:50:34,151 - __main__ - INFO - 目录 logs 已创建并可写入
+2025-03-14 13:50:34,151 - utils.knowledge_base - INFO - 从 data\knowledge.json 加载了 33 条知识
+2025-03-14 13:50:34,151 - __main__ - INFO - 已清理历史记录文件
+2025-03-14 13:50:37,778 - __main__ - INFO - 应用程序启动，初始化界面
+2025-03-14 13:50:37,778 - __main__ - INFO - 尝试加载历史记录, 限制数量: 20
+2025-03-14 13:50:37,781 - __main__ - INFO - 成功读取历史文件，记录数：6
+2025-03-14 13:50:37,781 - __main__ - INFO - 成功加载 6 条历史记录
+2025-03-14 13:50:37,781 - __main__ - INFO - 绘制相似度直方图，数据: [0.7092972666062739, 0.5031026124151314, 0.3563004293331381, 0.5962554527605355, 0.4285693450091423]...
+2025-03-14 13:50:37,987 - __main__ - INFO - 成功保存风险饼图: data\risk_pie_chart.png
+2025-03-14 13:50:52,029 - __main__ - INFO - 系统设置已保存
+2025-03-14 13:51:16,638 - reverse_verify - INFO - 开始验证问题: '生病发烧了，敷上热毛巾还是冷毛巾？'
+2025-03-14 13:51:16,641 - reverse_verify - INFO - 问题分析 - 关键词: ['敷上', '发烧', '生病'], 实体: ['毛巾', '毛巾']
+2025-03-14 13:51:16,641 - utils.api_interaction - INFO - 尝试通过混元API生成文本: model=hunyuan-turbo, prompt长度=24, temperature=0.7
+2025-03-14 13:51:24,338 - utils.api_interaction - INFO - 成功生成文本: 长度=413, 耗时=7.69秒
+2025-03-14 13:51:24,347 - utils.api_interaction - INFO - 尝试通过混元API生成文本: model=hunyuan-turbo, prompt长度=489, temperature=0.3
+2025-03-14 13:51:29,315 - utils.api_interaction - INFO - 成功生成文本: 长度=149, 耗时=4.96秒
+2025-03-14 13:51:29,321 - reverse_verify - INFO - 答案事实性评分: 8/10, 理由: 该陈述基于医学常识和临床实践，对发烧不同阶段的物理降温方法进行了合理区分。在发烧初期，热敷有助于缓解寒冷症状；而在体温高峰期和稳定期，冷敷则能更有效地降低体温。这一建议与医学上的处理原则相符，因此具有较高的可信度。但考虑到个体差异及病情复杂性，具体操作时还需结合个人情况和医生建议。
+2025-03-14 13:51:29,322 - reverse_verify - INFO - 开始生成反向问题 - 原问题: '生病发烧了，敷上热毛巾还是冷毛巾？', 关键词: ['敷上', '发烧', '生病']
+2025-03-14 13:51:29,325 - utils.api_interaction - INFO - 尝试通过混元API生成文本: model=hunyuan-turbo, prompt长度=483, temperature=0.8
+2025-03-14 13:51:30,722 - utils.api_interaction - INFO - 成功生成文本: 长度=15, 耗时=1.39秒
+2025-03-14 13:51:30,738 - utils.api_interaction - INFO - 尝试通过混元API生成文本: model=hunyuan-turbo, prompt长度=518, temperature=0.9
+2025-03-14 13:51:32,266 - utils.api_interaction - INFO - 成功生成文本: 长度=14, 耗时=1.52秒
+2025-03-14 13:51:32,272 - utils.api_interaction - INFO - 尝试通过混元API生成文本: model=hunyuan-turbo, prompt长度=534, temperature=1.0
+2025-03-14 13:51:33,675 - utils.api_interaction - INFO - 成功生成文本: 长度=13, 耗时=1.40秒
+2025-03-14 13:51:33,705 - reverse_verify - INFO - 反向问题生成完成 - 耗时: 4.38秒, 最佳问题: '发烧了是用热毛巾还是冷毛巾敷？', 相似度: 0.7765
+2025-03-14 13:51:33,709 - reverse_verify - INFO - 验证完成 - 问题: '生病发烧了，敷上热毛巾还是冷毛巾？', 相似度: 0.7765, 风险: 低风险, 耗时: 17.07秒
+2025-03-14 13:51:33,713 - utils.data_manager - INFO - 尝试保存验证结果: 生病发烧了，敷上热毛巾还是冷毛巾？...
+2025-03-14 13:51:33,717 - utils.data_manager - INFO - 历史文件路径: data\history.csv
+2025-03-14 13:51:33,730 - utils.data_manager - INFO - 成功保存到历史文件: data\history.csv
+2025-03-14 13:51:33,733 - utils.data_manager - INFO - 历史文件存在，大小: 18263 字节
+2025-03-14 13:52:04,853 - utils.knowledge_base - INFO - 知识库已导出到 data\knowledge_export.csv，共 33 条记录
+2025-03-14 13:58:39,591 - utils.knowledge_base - INFO - 从 data\knowledge.json 加载了 33 条知识
+2025-03-14 13:58:39,591 - __main__ - INFO - 成功加载中文字体文件
+2025-03-14 13:58:39,591 - __main__ - WARNING - 配置中文字体失败: module 'matplotlib.font_manager' has no attribute '_rebuild'
+2025-03-14 13:58:39,591 - __main__ - INFO - 目录 data 已创建并可写入
+2025-03-14 13:58:39,591 - __main__ - INFO - 目录 logs 已创建并可写入
+2025-03-14 13:58:39,591 - utils.knowledge_base - INFO - 从 data\knowledge.json 加载了 33 条知识
+2025-03-14 13:58:39,604 - __main__ - INFO - 已清理历史记录文件
+2025-03-14 13:58:42,404 - __main__ - INFO - 应用程序启动，初始化界面
+2025-03-14 13:58:42,404 - __main__ - INFO - 尝试加载历史记录, 限制数量: 20
+2025-03-14 13:58:42,407 - __main__ - INFO - 成功读取历史文件，记录数：7
+2025-03-14 13:58:42,407 - __main__ - INFO - 成功加载 7 条历史记录
+2025-03-14 13:58:42,407 - __main__ - INFO - 绘制相似度直方图，数据: [0.7092972666062739, 0.5031026124151314, 0.3563004293331381, 0.5962554527605355, 0.4285693450091423]...
+2025-03-14 13:58:42,603 - __main__ - INFO - 成功保存风险饼图: data\risk_pie_chart.png
+2025-03-14 13:59:01,325 - __main__ - INFO - 统计数据类型: <class 'dict'>, 内容: {'total_queries': 7, 'high_risk_queries': 3, 'low_risk_queries': 4, 'average_similarity': 0.5294480805535706, 'last_updated': '2025-03-14 13:59:01'}
+2025-03-15 16:32:24,821 - utils.knowledge_base - INFO - 从 data\knowledge.json 加载了 33 条知识
+2025-03-15 16:32:24,823 - __main__ - INFO - 成功加载中文字体文件
+2025-03-15 16:32:24,823 - __main__ - WARNING - 配置中文字体失败: module 'matplotlib.font_manager' has no attribute '_rebuild'
+2025-03-15 16:32:24,823 - __main__ - INFO - 目录 data 已创建并可写入
+2025-03-15 16:32:24,824 - __main__ - INFO - 目录 logs 已创建并可写入
+2025-03-15 16:32:24,825 - utils.knowledge_base - INFO - 从 data\knowledge.json 加载了 33 条知识
+2025-03-15 16:32:24,832 - __main__ - INFO - 已清理历史记录文件
+2025-03-15 16:32:28,975 - __main__ - INFO - 应用程序启动，初始化界面
+2025-03-15 16:32:28,975 - __main__ - INFO - 尝试加载历史记录, 限制数量: 20
+2025-03-15 16:32:28,975 - __main__ - INFO - 成功读取历史文件，记录数：7
+2025-03-15 16:32:28,975 - __main__ - INFO - 成功加载 7 条历史记录
+2025-03-15 16:32:28,975 - __main__ - INFO - 绘制相似度直方图，数据: [0.7092972666062739, 0.5031026124151314, 0.3563004293331381, 0.5962554527605355, 0.4285693450091423]...
+2025-03-15 16:32:29,183 - __main__ - INFO - 成功保存风险饼图: data\risk_pie_chart.png
+2025-03-15 16:33:06,192 - reverse_verify - INFO - 开始验证问题: '男生来大姨妈了怎么办？'
+2025-03-15 16:33:06,195 - reverse_verify - INFO - 问题分析 - 关键词: ['男生', '大姨妈', '怎么办'], 实体: ['大姨妈']
+2025-03-15 16:33:06,197 - utils.api_interaction - INFO - 尝试通过混元API生成文本: model=hunyuan-turbo, prompt长度=18, temperature=0.7
+2025-03-15 16:33:12,805 - utils.api_interaction - INFO - 成功生成文本: 长度=188, 耗时=6.61秒
+2025-03-15 16:33:12,811 - utils.api_interaction - INFO - 尝试通过混元API生成文本: model=hunyuan-turbo, prompt长度=264, temperature=0.3
+2025-03-15 16:33:21,316 - utils.api_interaction - INFO - 成功生成文本: 长度=182, 耗时=8.50秒
+2025-03-15 16:33:21,320 - reverse_verify - INFO - 答案事实性评分: 10/10, 理由: 从生理学角度来看，月经是女性特有的生理现象，与子宫内膜的周期性变化直接相关。男性由于缺乏子宫及相关的生殖系统结构，自然不会经历月经周期。这一陈述是基于生物学基础的事实，因此非常可信。
+2025-03-15 16:33:21,332 - reverse_verify - INFO - 开始生成反向问题 - 原问题: '男生来大姨妈了怎么办？', 关键词: ['男生', '大姨妈', '怎么办']
+2025-03-15 16:33:21,333 - utils.api_interaction - INFO - 尝试通过混元API生成文本: model=hunyuan-turbo, prompt长度=259, temperature=0.8
+2025-03-15 16:33:22,766 - utils.api_interaction - INFO - 成功生成文本: 长度=16, 耗时=1.43秒
+2025-03-15 16:33:22,772 - utils.api_interaction - INFO - 尝试通过混元API生成文本: model=hunyuan-turbo, prompt长度=295, temperature=0.9
+2025-03-15 16:33:24,144 - utils.api_interaction - INFO - 成功生成文本: 长度=15, 耗时=1.37秒
+2025-03-15 16:33:24,147 - utils.api_interaction - INFO - 尝试通过混元API生成文本: model=hunyuan-turbo, prompt长度=312, temperature=1.0
+2025-03-15 16:33:27,141 - utils.api_interaction - INFO - 成功生成文本: 长度=13, 耗时=2.99秒
+2025-03-15 16:33:27,187 - reverse_verify - INFO - 反向问题生成完成 - 耗时: 5.85秒, 最佳问题: '男生能理解大姨妈的痛苦吗？', 相似度: 0.4112
+2025-03-15 16:33:27,191 - reverse_verify - INFO - 验证完成 - 问题: '男生来大姨妈了怎么办？', 相似度: 0.4112, 风险: 高风险, 耗时: 21.00秒
+2025-03-15 16:33:27,195 - utils.data_manager - INFO - 尝试保存验证结果: 男生来大姨妈了怎么办？...
+2025-03-15 16:33:27,195 - utils.data_manager - INFO - 历史文件路径: data\history.csv
+2025-03-15 16:33:27,208 - utils.data_manager - INFO - 成功保存到历史文件: data\history.csv
+2025-03-15 16:33:27,211 - utils.data_manager - INFO - 历史文件存在，大小: 19872 字节
+2025-03-15 16:34:03,290 - __main__ - INFO - 手动刷新历史记录
+2025-03-15 16:34:03,290 - __main__ - INFO - 尝试加载历史记录, 限制数量: 20
+2025-03-15 16:34:03,296 - __main__ - INFO - 成功读取历史文件，记录数：8
+2025-03-15 16:34:03,298 - __main__ - INFO - 成功加载 8 条历史记录
+2025-03-15 16:34:03,298 - __main__ - INFO - 绘制相似度直方图，数据: [0.7092972666062739, 0.5031026124151314, 0.3563004293331381, 0.5962554527605355, 0.4285693450091423]...
+2025-03-15 16:34:04,232 - __main__ - INFO - 成功保存风险饼图: data\risk_pie_chart.png
+2025-03-15 16:34:04,857 - __main__ - INFO - 刷新成功，加载了 8 条记录
+2025-03-15 16:34:18,153 - __main__ - INFO - 已清理历史记录文件
+2025-03-15 16:34:18,153 - __main__ - INFO - 手动刷新历史记录
+2025-03-15 16:34:18,153 - __main__ - INFO - 尝试加载历史记录, 限制数量: 20
+2025-03-15 16:34:18,161 - __main__ - INFO - 成功读取历史文件，记录数：8
+2025-03-15 16:34:18,165 - __main__ - INFO - 成功加载 8 条历史记录
+2025-03-15 16:34:18,165 - __main__ - INFO - 绘制相似度直方图，数据: [0.7092972666062739, 0.5031026124151314, 0.3563004293331381, 0.5962554527605355, 0.4285693450091423]...
+2025-03-15 16:34:19,136 - __main__ - INFO - 成功保存风险饼图: data\risk_pie_chart.png
+2025-03-15 16:34:19,853 - __main__ - INFO - 刷新成功，加载了 8 条记录
+2025-03-15 16:34:21,577 - utils.data_manager - INFO - 历史记录已备份到 data\history.csv.20250315163421.bak
+2025-03-15 16:34:38,415 - utils.knowledge_base - INFO - 知识库已导出到 data\knowledge_export.csv，共 33 条记录
+2025-03-15 16:34:56,890 - utils.data_manager - WARNING - 历史记录文件不存在: data\history.csv
+2025-03-15 16:34:56,890 - __main__ - INFO - 统计数据类型: <class 'dict'>, 内容: {'total_queries': 0, 'high_risk_queries': 0, 'low_risk_queries': 0, 'average_similarity': 0.0, 'last_updated': '2025-03-15 16:34:56'}
+2025-03-15 16:35:00,927 - __main__ - INFO - 系统设置已保存
+2025-03-16 19:25:19,038 - utils.knowledge_base - INFO - 从 data\knowledge.json 加载了 33 条知识
+2025-03-16 19:25:19,038 - __main__ - INFO - 成功加载中文字体文件
+2025-03-16 19:25:19,038 - __main__ - WARNING - 配置中文字体失败: module 'matplotlib.font_manager' has no attribute '_rebuild'
+2025-03-16 19:25:19,038 - __main__ - INFO - 目录 data 已创建并可写入
+2025-03-16 19:25:19,038 - __main__ - INFO - 目录 logs 已创建并可写入
+2025-03-16 19:25:19,038 - utils.knowledge_base - INFO - 从 data\knowledge.json 加载了 33 条知识
+2025-03-16 19:25:19,049 - __main__ - WARNING - 历史记录文件不存在: data\history.csv
+2025-03-16 19:26:35,693 - __main__ - INFO - 应用程序启动，初始化界面
+2025-03-16 19:26:35,694 - __main__ - INFO - 尝试加载历史记录, 限制数量: 20
+2025-03-16 19:26:35,694 - __main__ - WARNING - 历史记录文件不存在: data\history.csv
+2025-03-16 19:26:42,202 - __main__ - INFO - 手动刷新历史记录
+2025-03-16 19:26:42,202 - __main__ - INFO - 尝试加载历史记录, 限制数量: 20
+2025-03-16 19:26:42,203 - __main__ - WARNING - 历史记录文件不存在: data\history.csv
+2025-03-16 19:26:42,203 - __main__ - WARNING - 刷新历史记录后无数据
+2025-03-16 19:26:42,829 - __main__ - INFO - 手动刷新历史记录
+2025-03-16 19:26:42,829 - __main__ - INFO - 尝试加载历史记录, 限制数量: 20
+2025-03-16 19:26:42,829 - __main__ - WARNING - 历史记录文件不存在: data\history.csv
+2025-03-16 19:26:42,829 - __main__ - WARNING - 刷新历史记录后无数据
+2025-03-16 19:26:43,164 - __main__ - INFO - 手动刷新历史记录
+2025-03-16 19:26:43,164 - __main__ - INFO - 尝试加载历史记录, 限制数量: 20
+2025-03-16 19:26:43,164 - __main__ - WARNING - 历史记录文件不存在: data\history.csv
+2025-03-16 19:26:43,164 - __main__ - WARNING - 刷新历史记录后无数据
+2025-03-16 19:26:53,148 - reverse_verify - INFO - 开始验证问题: '感冒了怎么办？
+'
+2025-03-16 19:26:53,151 - reverse_verify - INFO - 问题分析 - 关键词: ['感冒', '怎么办'], 实体: []
+2025-03-16 19:26:53,151 - utils.api_interaction - INFO - 尝试通过混元API生成文本: model=hunyuan-turbo, prompt长度=15, temperature=0.7
+2025-03-16 19:27:01,697 - utils.api_interaction - INFO - 成功生成文本: 长度=453, 耗时=8.54秒
+2025-03-16 19:27:01,700 - utils.api_interaction - INFO - 尝试通过混元API生成文本: model=hunyuan-turbo, prompt长度=529, temperature=0.3
+2025-03-16 19:27:07,047 - utils.api_interaction - INFO - 成功生成文本: 长度=134, 耗时=5.34秒
+2025-03-16 19:27:07,054 - reverse_verify - INFO - 答案事实性评分: 9/10, 理由: 该陈述提供了详尽且科学的感冒应对措施，涵盖了休息、饮食调理、物理降温等一般治疗方法，同时给出了中医治疗和药物治疗的具体建议，并强调了注意事项。整体内容准确、合理，符合医学常识，因此可信度很高。但考虑到中医治疗部分可能因个体差异而效果不同，故扣除一分。
+2025-03-16 19:27:07,054 - reverse_verify - INFO - 开始生成反向问题 - 原问题: '感冒了怎么办？
+', 关键词: ['感冒', '怎么办']
+2025-03-16 19:27:07,054 - utils.api_interaction - INFO - 尝试通过混元API生成文本: model=hunyuan-turbo, prompt长度=524, temperature=0.8
+2025-03-16 19:27:08,693 - utils.api_interaction - INFO - 成功生成文本: 长度=12, 耗时=1.63秒
+2025-03-16 19:27:08,693 - utils.api_interaction - INFO - 尝试通过混元API生成文本: model=hunyuan-turbo, prompt长度=556, temperature=0.9
+2025-03-16 19:27:10,029 - utils.api_interaction - INFO - 成功生成文本: 长度=14, 耗时=1.33秒
+2025-03-16 19:27:10,034 - utils.api_interaction - INFO - 尝试通过混元API生成文本: model=hunyuan-turbo, prompt长度=572, temperature=1.0
+2025-03-16 19:27:11,467 - utils.api_interaction - INFO - 成功生成文本: 长度=15, 耗时=1.43秒
+2025-03-16 19:27:11,487 - reverse_verify - INFO - 反向问题生成完成 - 耗时: 4.43秒, 最佳问题: '感冒了，我该怎么办才好？', 相似度: 0.7093
+2025-03-16 19:27:11,487 - reverse_verify - INFO - 验证完成 - 问题: '感冒了怎么办？
+', 相似度: 0.7093, 风险: 低风险, 耗时: 18.34秒
+2025-03-16 19:27:11,488 - utils.data_manager - INFO - 尝试保存验证结果: 感冒了怎么办？
+...
+2025-03-16 19:27:11,488 - utils.data_manager - INFO - 历史文件路径: data\history.csv
+2025-03-16 19:27:11,490 - utils.data_manager - INFO - 成功保存到历史文件: data\history.csv
+2025-03-16 19:27:11,490 - utils.data_manager - INFO - 历史文件存在，大小: 2556 字节
+2025-03-16 19:29:23,062 - utils.knowledge_base - INFO - 从 data\knowledge.json 加载了 33 条知识
+2025-03-16 19:29:23,063 - __main__ - INFO - 成功加载中文字体文件
+2025-03-16 19:29:23,063 - __main__ - WARNING - 配置中文字体失败: module 'matplotlib.font_manager' has no attribute '_rebuild'
+2025-03-16 19:29:23,063 - __main__ - INFO - 目录 data 已创建并可写入
+2025-03-16 19:29:23,064 - __main__ - INFO - 目录 logs 已创建并可写入
+2025-03-16 19:29:23,065 - utils.knowledge_base - INFO - 从 data\knowledge.json 加载了 33 条知识
+2025-03-16 19:29:23,073 - __main__ - INFO - 已清理历史记录文件
+2025-03-16 19:29:26,528 - __main__ - INFO - 应用程序启动，初始化界面
+2025-03-16 19:29:26,528 - __main__ - INFO - 尝试加载历史记录, 限制数量: 20
+2025-03-16 19:29:26,530 - __main__ - INFO - 成功读取历史文件，记录数：1
+2025-03-16 19:29:26,530 - __main__ - INFO - 成功加载 1 条历史记录
+2025-03-16 19:29:26,530 - __main__ - INFO - 绘制相似度直方图，数据: [0.7092972666062739]...
+2025-03-16 19:29:26,707 - __main__ - INFO - 成功保存风险饼图: data\risk_pie_chart.png
+2025-03-16 19:29:45,806 - reverse_verify - INFO - 开始验证问题: '感冒了会的新冠吗？'
+2025-03-16 19:29:45,819 - reverse_verify - INFO - 问题分析 - 关键词: ['了会', '新冠', '感冒'], 实体: []
+2025-03-16 19:29:45,821 - utils.api_interaction - INFO - 尝试通过混元API生成文本: model=hunyuan-turbo, prompt长度=16, temperature=0.7
+2025-03-16 19:29:52,595 - utils.api_interaction - INFO - 成功生成文本: 长度=306, 耗时=6.77秒
+2025-03-16 19:29:52,608 - reverse_verify - WARNING - 答案与知识库冲突 - 答案可能与已知信息冲突: 新冠 - 需要遵循医生建议和官方指南，注意个人防护和公共卫生
+2025-03-16 19:29:52,608 - utils.api_interaction - INFO - 尝试通过混元API生成文本: model=hunyuan-turbo, prompt长度=382, temperature=0.3
+2025-03-16 19:29:56,216 - utils.api_interaction - INFO - 成功生成文本: 长度=125, 耗时=3.60秒
+2025-03-16 19:29:56,220 - reverse_verify - INFO - 答案事实性评分: 10/10, 理由: 该陈述详细解释了感冒和新型冠状病毒感染（COVID-19）之间的区别，包括病原体的不同、症状的不同以及感冒期间人体抵抗力下降可能导致新冠病毒感染的风险增加。这些信息都是基于现有的医学知识和研究结果，内容准确且科学，因此非常有可信度。
+2025-03-16 19:29:56,220 - reverse_verify - INFO - 开始生成反向问题 - 原问题: '感冒了会的新冠吗？', 关键词: ['了会', '新冠', '感冒']
+2025-03-16 19:29:56,224 - utils.api_interaction - INFO - 尝试通过混元API生成文本: model=hunyuan-turbo, prompt长度=376, temperature=0.8
+2025-03-16 19:30:00,245 - utils.api_interaction - INFO - 成功生成文本: 长度=16, 耗时=4.02秒
+2025-03-16 19:30:00,249 - utils.api_interaction - INFO - 尝试通过混元API生成文本: model=hunyuan-turbo, prompt长度=412, temperature=0.9
+2025-03-16 19:30:01,903 - utils.api_interaction - INFO - 成功生成文本: 长度=16, 耗时=1.65秒
+2025-03-16 19:30:01,911 - utils.api_interaction - INFO - 尝试通过混元API生成文本: model=hunyuan-turbo, prompt长度=430, temperature=1.0
+2025-03-16 19:30:03,339 - utils.api_interaction - INFO - 成功生成文本: 长度=15, 耗时=1.43秒
+2025-03-16 19:30:03,375 - reverse_verify - INFO - 反向问题生成完成 - 耗时: 7.16秒, 最佳问题: '感冒会引发新冠吗？两者有啥区别？', 相似度: 0.5023
+2025-03-16 19:30:03,381 - reverse_verify - INFO - 验证完成 - 问题: '感冒了会的新冠吗？', 相似度: 0.5023, 风险: 高风险, 耗时: 17.57秒
+2025-03-16 19:30:03,389 - utils.data_manager - INFO - 尝试保存验证结果: 感冒了会的新冠吗？...
+2025-03-16 19:30:03,391 - utils.data_manager - INFO - 历史文件路径: data\history.csv
+2025-03-16 19:30:03,407 - utils.data_manager - INFO - 成功保存到历史文件: data\history.csv
+2025-03-16 19:30:03,407 - utils.data_manager - INFO - 历史文件存在，大小: 4728 字节
+2025-03-16 19:30:49,765 - __main__ - INFO - 系统设置已保存
+2025-03-16 19:30:50,923 - __main__ - INFO - 统计数据类型: <class 'dict'>, 内容: {'total_queries': 2, 'high_risk_queries': 1, 'low_risk_queries': 1, 'average_similarity': 0.6058130224159728, 'last_updated': '2025-03-16 19:30:50'}
+2025-03-16 19:30:59,215 - utils.knowledge_base - INFO - 知识库已导出到 data\knowledge_export.csv，共 33 条记录
+2025-03-16 19:31:34,548 - reverse_verify - INFO - 开始验证问题: '糖尿病和高血压怎么办？'
+2025-03-16 19:31:34,551 - reverse_verify - INFO - 问题分析 - 关键词: ['高血压', '糖尿病'], 实体: []
+2025-03-16 19:31:34,552 - utils.api_interaction - INFO - 尝试通过混元API生成文本: model=hunyuan-turbo, prompt长度=18, temperature=0.7
+2025-03-16 19:31:47,877 - utils.api_interaction - INFO - 成功生成文本: 长度=605, 耗时=13.32秒
+2025-03-16 19:31:47,881 - reverse_verify - WARNING - 答案与知识库冲突 - 答案可能与已知信息冲突: 糖尿病 - 定期检测糖化血红蛋白，注意足部护理防感染
+2025-03-16 19:31:47,885 - utils.api_interaction - INFO - 尝试通过混元API生成文本: model=hunyuan-turbo, prompt长度=681, temperature=0.3
+2025-03-16 19:31:52,427 - utils.api_interaction - INFO - 成功生成文本: 长度=175, 耗时=4.54秒
+2025-03-16 19:31:52,431 - reverse_verify - INFO - 答案事实性评分: 9/10, 理由: 该陈述提供了关于糖尿病和高血压的管理和治疗的详细建议，包括饮食管理、药物治疗和生活方式改变等方面。这些建议与目前医学界公认的治疗和管理糖尿病和高血压的方法一致。此外，陈述还强调了预防措施和咨询医疗专业人员的重要性。唯一需要注意的是，具体治疗和管理计划应由医疗专业人员根据个人的健康状况制定，这一点陈述也已经提及。因此，该陈述非常可信。
+2025-03-16 19:31:52,431 - reverse_verify - INFO - 开始生成反向问题 - 原问题: '糖尿病和高血压怎么办？', 关键词: ['高血压', '糖尿病']
+2025-03-16 19:31:52,435 - utils.api_interaction - INFO - 尝试通过混元API生成文本: model=hunyuan-turbo, prompt长度=677, temperature=0.8
+2025-03-16 19:31:53,808 - utils.api_interaction - INFO - 成功生成文本: 长度=14, 耗时=1.37秒
+2025-03-16 19:31:53,813 - utils.api_interaction - INFO - 尝试通过混元API生成文本: model=hunyuan-turbo, prompt长度=711, temperature=0.9
+2025-03-16 19:31:55,268 - utils.api_interaction - INFO - 成功生成文本: 长度=12, 耗时=1.45秒
+2025-03-16 19:31:55,276 - utils.api_interaction - INFO - 尝试通过混元API生成文本: model=hunyuan-turbo, prompt长度=725, temperature=1.0
+2025-03-16 19:31:57,406 - utils.api_interaction - INFO - 成功生成文本: 长度=15, 耗时=2.13秒
+2025-03-16 19:31:57,442 - reverse_verify - INFO - 反向问题生成完成 - 耗时: 5.01秒, 最佳问题: '糖尿病和高血压要注意啥？', 相似度: 0.5031
+2025-03-16 19:31:57,445 - reverse_verify - INFO - 验证完成 - 问题: '糖尿病和高血压怎么办？', 相似度: 0.5031, 风险: 低风险, 耗时: 22.90秒
+2025-03-16 19:31:57,450 - utils.data_manager - INFO - 尝试保存验证结果: 糖尿病和高血压怎么办？...
+2025-03-16 19:31:57,451 - utils.data_manager - INFO - 历史文件路径: data\history.csv
+2025-03-16 19:31:57,461 - utils.data_manager - INFO - 成功保存到历史文件: data\history.csv
+2025-03-16 19:31:57,461 - utils.data_manager - INFO - 历史文件存在，大小: 7705 字节
+2025-03-16 19:35:09,679 - __main__ - INFO - 已清理历史记录文件
+2025-03-16 19:35:09,679 - __main__ - INFO - 手动刷新历史记录
+2025-03-16 19:35:09,679 - __main__ - INFO - 尝试加载历史记录, 限制数量: 20
+2025-03-16 19:35:09,681 - __main__ - INFO - 成功读取历史文件，记录数：3
+2025-03-16 19:35:09,681 - __main__ - INFO - 成功加载 3 条历史记录
+2025-03-16 19:35:09,681 - __main__ - INFO - 绘制相似度直方图，数据: [0.7092972666062739, 0.5023287782256718, 0.5031026124151314]...
+2025-03-16 19:35:09,889 - __main__ - INFO - 成功保存风险饼图: data\risk_pie_chart.png
+2025-03-16 19:35:10,840 - __main__ - INFO - 刷新成功，加载了 3 条记录
+2025-03-16 19:35:29,375 - __main__ - INFO - 统计数据类型: <class 'dict'>, 内容: {'total_queries': 3, 'high_risk_queries': 1, 'low_risk_queries': 2, 'average_similarity': 0.571576219082359, 'last_updated': '2025-03-16 19:35:29'}
+2025-03-16 19:35:58,754 - utils.knowledge_base - INFO - 从 data\knowledge.json 加载了 33 条知识
+2025-03-16 19:35:58,754 - __main__ - INFO - 成功加载中文字体文件
+2025-03-16 19:35:58,754 - __main__ - WARNING - 配置中文字体失败: module 'matplotlib.font_manager' has no attribute '_rebuild'
+2025-03-16 19:35:58,754 - __main__ - INFO - 目录 data 已创建并可写入
+2025-03-16 19:35:58,754 - __main__ - INFO - 目录 logs 已创建并可写入
+2025-03-16 19:35:58,754 - utils.knowledge_base - INFO - 从 data\knowledge.json 加载了 33 条知识
+2025-03-16 19:35:58,768 - __main__ - INFO - 已清理历史记录文件
+2025-03-16 19:36:02,076 - __main__ - INFO - 应用程序启动，初始化界面
+2025-03-16 19:36:02,078 - __main__ - INFO - 尝试加载历史记录, 限制数量: 20
+2025-03-16 19:36:02,078 - __main__ - INFO - 成功读取历史文件，记录数：3
+2025-03-16 19:36:02,078 - __main__ - INFO - 成功加载 3 条历史记录
+2025-03-16 19:36:02,078 - __main__ - INFO - 绘制相似度直方图，数据: [0.7092972666062739, 0.5023287782256718, 0.5031026124151314]...
+2025-03-16 19:36:02,279 - __main__ - INFO - 成功保存风险饼图: data\risk_pie_chart.png
+2025-03-16 19:38:32,294 - utils.knowledge_base - INFO - 从 data\knowledge.json 加载了 33 条知识
+2025-03-16 19:38:32,294 - __main__ - INFO - 成功加载中文字体文件
+2025-03-16 19:38:32,294 - __main__ - WARNING - 配置中文字体失败: module 'matplotlib.font_manager' has no attribute '_rebuild'
+2025-03-16 19:38:32,294 - __main__ - INFO - 目录 data 已创建并可写入
+2025-03-16 19:38:32,296 - __main__ - INFO - 目录 logs 已创建并可写入
+2025-03-16 19:38:32,296 - utils.knowledge_base - INFO - 从 data\knowledge.json 加载了 33 条知识
+2025-03-16 19:38:32,303 - __main__ - INFO - 已清理历史记录文件
+2025-03-16 19:38:35,139 - __main__ - INFO - 应用程序启动，初始化界面
+2025-03-16 19:38:35,139 - __main__ - INFO - 尝试加载历史记录, 限制数量: 20
+2025-03-16 19:38:35,143 - __main__ - INFO - 成功读取历史文件，记录数：3
+2025-03-16 19:38:35,143 - __main__ - INFO - 成功加载 3 条历史记录
+2025-03-16 19:38:35,143 - __main__ - INFO - 绘制相似度直方图，数据: [0.7092972666062739, 0.5023287782256718, 0.5031026124151314]...
+2025-03-16 19:38:35,345 - __main__ - INFO - 成功保存风险饼图: data\risk_pie_chart.png
+2025-03-16 19:38:57,615 - __main__ - INFO - 统计数据类型: <class 'dict'>, 内容: {'total_queries': 3, 'high_risk_queries': 1, 'low_risk_queries': 2, 'average_similarity': 0.571576219082359, 'last_updated': '2025-03-16 19:38:57'}
+2025-03-16 19:38:59,643 - __main__ - INFO - 系统设置已保存
+2025-03-16 19:39:05,123 - utils.knowledge_base - INFO - 知识库已导出到 data\knowledge_export.csv，共 33 条记录
+2025-03-20 13:33:36,437 - utils.knowledge_base - INFO - 从 data\knowledge.json 加载了 12 条知识
+2025-03-20 13:33:36,437 - __main__ - INFO - 成功加载中文字体文件
+2025-03-20 13:33:36,437 - __main__ - WARNING - 配置中文字体失败: module 'matplotlib.font_manager' has no attribute '_rebuild'
+2025-03-20 13:33:36,437 - __main__ - INFO - 目录 data 已创建并可写入
+2025-03-20 13:33:36,437 - __main__ - INFO - 目录 logs 已创建并可写入
+2025-03-20 13:33:36,437 - utils.knowledge_base - INFO - 从 data\knowledge.json 加载了 12 条知识
+2025-03-20 13:33:36,450 - __main__ - INFO - 已清理历史记录文件
+2025-03-20 13:33:39,829 - __main__ - INFO - 应用程序启动，初始化界面
+2025-03-20 13:33:39,830 - __main__ - INFO - 尝试加载历史记录, 限制数量: 20
+2025-03-20 13:33:39,831 - __main__ - INFO - 成功读取历史文件，记录数：3
+2025-03-20 13:33:39,832 - __main__ - INFO - 成功加载 3 条历史记录
+2025-03-20 13:33:39,832 - __main__ - INFO - 绘制相似度直方图，数据: [0.7092972666062739, 0.5023287782256718, 0.5031026124151314]...
+2025-03-20 13:33:40,025 - __main__ - INFO - 成功保存风险饼图: data\risk_pie_chart.png
+2025-03-20 13:33:44,353 - __main__ - INFO - 手动刷新历史记录
+2025-03-20 13:33:44,353 - __main__ - INFO - 尝试加载历史记录, 限制数量: 20
+2025-03-20 13:33:44,355 - __main__ - INFO - 成功读取历史文件，记录数：3
+2025-03-20 13:33:44,355 - __main__ - INFO - 成功加载 3 条历史记录
+2025-03-20 13:33:44,355 - __main__ - INFO - 绘制相似度直方图，数据: [0.7092972666062739, 0.5023287782256718, 0.5031026124151314]...
+2025-03-20 13:33:45,280 - __main__ - INFO - 成功保存风险饼图: data\risk_pie_chart.png
+2025-03-20 13:33:46,043 - __main__ - INFO - 刷新成功，加载了 3 条记录
+2025-03-20 13:33:55,297 - __main__ - INFO - 手动刷新历史记录
+2025-03-20 13:33:55,297 - __main__ - INFO - 尝试加载历史记录, 限制数量: 20
+2025-03-20 13:33:55,300 - __main__ - INFO - 成功读取历史文件，记录数：3
+2025-03-20 13:33:55,305 - __main__ - INFO - 成功加载 3 条历史记录
+2025-03-20 13:33:55,305 - __main__ - INFO - 绘制相似度直方图，数据: [0.7092972666062739, 0.5023287782256718, 0.5031026124151314]...
+2025-03-20 13:33:56,209 - __main__ - INFO - 成功保存风险饼图: data\risk_pie_chart.png
+2025-03-20 13:33:56,955 - __main__ - INFO - 刷新成功，加载了 3 条记录
+2025-03-20 14:40:17,274 - utils.knowledge_base - INFO - 从 data\knowledge.json 加载了 12 条知识
+2025-03-20 14:40:17,274 - __main__ - INFO - 成功加载中文字体文件
+2025-03-20 14:40:17,274 - __main__ - WARNING - 配置中文字体失败: module 'matplotlib.font_manager' has no attribute '_rebuild'
+2025-03-20 14:40:17,276 - __main__ - INFO - 目录 data 已创建并可写入
+2025-03-20 14:40:17,276 - __main__ - INFO - 目录 logs 已创建并可写入
+2025-03-20 14:40:17,276 - utils.knowledge_base - INFO - 从 data\knowledge.json 加载了 12 条知识
+2025-03-20 14:40:17,285 - __main__ - INFO - 已清理历史记录文件
+2025-03-20 14:40:20,464 - __main__ - INFO - 应用程序启动，初始化界面
+2025-03-20 14:40:20,464 - __main__ - INFO - 尝试加载历史记录, 限制数量: 20
+2025-03-20 14:40:20,467 - __main__ - INFO - 成功读取历史文件，记录数：3
+2025-03-20 14:40:20,467 - __main__ - INFO - 成功加载 3 条历史记录
+2025-03-20 14:40:20,467 - __main__ - INFO - 绘制相似度直方图，数据: [0.7092972666062739, 0.5023287782256718, 0.5031026124151314]...
+2025-03-20 14:40:20,688 - __main__ - INFO - 成功保存风险饼图: data\risk_pie_chart.png
+2025-03-21 13:25:32,911 - utils.knowledge_base - INFO - 从 data\knowledge.json 加载了 12 条知识
+2025-03-21 13:25:32,911 - __main__ - INFO - 成功加载中文字体文件
+2025-03-21 13:25:32,911 - __main__ - WARNING - 配置中文字体失败: module 'matplotlib.font_manager' has no attribute '_rebuild'
+2025-03-21 13:25:32,911 - __main__ - INFO - 目录 data 已创建并可写入
+2025-03-21 13:25:32,911 - __main__ - INFO - 目录 logs 已创建并可写入
+2025-03-21 13:25:32,911 - utils.knowledge_base - INFO - 从 data\knowledge.json 加载了 12 条知识
+2025-03-21 13:25:32,911 - __main__ - INFO - 已清理历史记录文件
+2025-03-21 13:25:39,686 - __main__ - INFO - 应用程序启动，初始化界面
+2025-03-21 13:25:39,686 - __main__ - INFO - 尝试加载历史记录, 限制数量: 20
+2025-03-21 13:25:39,698 - __main__ - INFO - 成功读取历史文件，记录数：3
+2025-03-21 13:25:39,699 - __main__ - INFO - 成功加载 3 条历史记录
+2025-03-21 13:25:39,699 - __main__ - INFO - 绘制相似度直方图，数据: [0.7092972666062739, 0.5023287782256718, 0.5031026124151314]...
+2025-03-21 13:25:39,930 - __main__ - INFO - 成功保存风险饼图: data\risk_pie_chart.png
+2025-03-21 13:26:54,112 - utils.knowledge_base - INFO - 成功以 utf-8 编码读取文件
+2025-03-21 13:26:54,112 - utils.knowledge_base - INFO - CSV文件没有正确的列名，已自动重命名前两列为'Key'和'Value'
+2025-03-21 13:26:54,116 - utils.knowledge_base - INFO - 知识库已保存到 data\knowledge.json
+2025-03-21 13:26:54,116 - utils.knowledge_base - INFO - 从 C:\Users\yishe\AppData\Local\Temp\gradio\129e619cab1d28760e5a2ca77cd7100abd3c8003\medical_knowledge.csv.txt 导入了 30 条知识
+2025-03-21 13:26:58,870 - utils.knowledge_base - INFO - 知识库已导出到 data\knowledge_export.csv，共 33 条记录
+2025-03-21 13:27:04,720 - reverse_verify - INFO - 开始验证问题: '脸上痘痘多怎么办？是得癌症了吗？'
+2025-03-21 13:27:04,724 - reverse_verify - INFO - 问题分析 - 关键词: ['痘痘', '癌症'], 实体: []
+2025-03-21 13:27:04,728 - utils.api_interaction - INFO - 尝试通过混元API生成文本: model=hunyuan-turbo, prompt长度=23, temperature=0.7
+2025-03-21 13:27:14,586 - utils.api_interaction - INFO - 成功生成文本: 长度=616, 耗时=9.85秒
+2025-03-21 13:27:14,587 - reverse_verify - WARNING - 答案与知识库冲突 - 答案可能与已知信息冲突: 癌症 - 目前没有简单的治愈方法，需要专业医疗团队制定综合治疗方案
+2025-03-21 13:27:14,588 - utils.api_interaction - INFO - 尝试通过混元API生成文本: model=hunyuan-turbo, prompt长度=692, temperature=0.3
+2025-03-21 13:27:18,612 - utils.api_interaction - INFO - 成功生成文本: 长度=86, 耗时=4.02秒
+2025-03-21 13:27:18,616 - reverse_verify - INFO - 答案事实性评分: 10/10, 理由: 该陈述详细解释了痤疮（痘痘）的常见原因、治疗方法以及与癌症的区别，内容科学准确，符合医学常识。陈述中没有夸大或缩小事实，也没有传播错误信息，因此非常可信。
+2025-03-21 13:27:18,624 - reverse_verify - INFO - 开始生成反向问题 - 原问题: '脸上痘痘多怎么办？是得癌症了吗？', 关键词: ['痘痘', '癌症']
+2025-03-21 13:27:18,625 - utils.api_interaction - INFO - 尝试通过混元API生成文本: model=hunyuan-turbo, prompt长度=686, temperature=0.8
+2025-03-21 13:27:20,054 - utils.api_interaction - INFO - 成功生成文本: 长度=14, 耗时=1.43秒
+2025-03-21 13:27:20,057 - utils.api_interaction - INFO - 尝试通过混元API生成文本: model=hunyuan-turbo, prompt长度=720, temperature=0.9
+2025-03-21 13:27:21,511 - utils.api_interaction - INFO - 成功生成文本: 长度=10, 耗时=1.45秒
+2025-03-21 13:27:21,513 - utils.api_interaction - INFO - 尝试通过混元API生成文本: model=hunyuan-turbo, prompt长度=732, temperature=1.0
+2025-03-21 13:27:22,809 - utils.api_interaction - INFO - 成功生成文本: 长度=12, 耗时=1.30秒
+2025-03-21 13:27:22,826 - reverse_verify - INFO - 反向问题生成完成 - 耗时: 4.20秒, 最佳问题: '痘痘和癌症有关系吗？', 相似度: 0.4112
+2025-03-21 13:27:22,826 - reverse_verify - INFO - 验证完成 - 问题: '脸上痘痘多怎么办？是得癌症了吗？', 相似度: 0.4112, 风险: 高风险, 耗时: 18.11秒
+2025-03-21 13:27:22,828 - utils.data_manager - INFO - 尝试保存验证结果: 脸上痘痘多怎么办？是得癌症了吗？...
+2025-03-21 13:27:22,829 - utils.data_manager - INFO - 历史文件路径: data\history.csv
+2025-03-21 13:27:22,829 - utils.data_manager - INFO - 成功保存到历史文件: data\history.csv
+2025-03-21 13:27:22,829 - utils.data_manager - INFO - 历史文件存在，大小: 10554 字节
+2025-03-21 13:27:47,280 - __main__ - INFO - 手动刷新历史记录
+2025-03-21 13:27:47,280 - __main__ - INFO - 尝试加载历史记录, 限制数量: 20
+2025-03-21 13:27:47,282 - __main__ - INFO - 成功读取历史文件，记录数：4
+2025-03-21 13:27:47,282 - __main__ - INFO - 成功加载 4 条历史记录
+2025-03-21 13:27:47,282 - __main__ - INFO - 绘制相似度直方图，数据: [0.7092972666062739, 0.5023287782256718, 0.5031026124151314, 0.4112070550676187]...
+2025-03-21 13:27:47,470 - __main__ - INFO - 成功保存风险饼图: data\risk_pie_chart.png
+2025-03-21 13:27:47,599 - __main__ - INFO - 刷新成功，加载了 4 条记录
+2025-03-21 13:28:03,282 - __main__ - INFO - 统计数据类型: <class 'dict'>, 内容: {'total_queries': 4, 'high_risk_queries': 2, 'low_risk_queries': 2, 'average_similarity': 0.531483928078674, 'last_updated': '2025-03-21 13:28:03'}
+2025-03-21 13:28:06,199 - __main__ - INFO - 系统设置已保存
+2025-03-21 15:34:58,443 - utils.knowledge_base - INFO - 从 data\knowledge.json 加载了 33 条知识
+2025-03-21 15:34:58,445 - __main__ - INFO - 成功加载中文字体文件
+2025-03-21 15:34:58,445 - __main__ - WARNING - 配置中文字体失败: module 'matplotlib.font_manager' has no attribute '_rebuild'
+2025-03-21 15:34:58,445 - __main__ - INFO - 目录 data 已创建并可写入
+2025-03-21 15:34:58,447 - __main__ - INFO - 目录 logs 已创建并可写入
+2025-03-21 15:34:58,447 - utils.knowledge_base - INFO - 从 data\knowledge.json 加载了 33 条知识
+2025-03-21 15:34:58,459 - __main__ - INFO - 已清理历史记录文件
+2025-03-21 15:35:02,721 - __main__ - INFO - 应用程序启动，初始化界面
+2025-03-21 15:35:02,721 - __main__ - INFO - 尝试加载历史记录, 限制数量: 20
+2025-03-21 15:35:02,721 - __main__ - INFO - 成功读取历史文件，记录数：4
+2025-03-21 15:35:02,721 - __main__ - INFO - 成功加载 4 条历史记录
+2025-03-21 15:35:02,721 - __main__ - INFO - 绘制相似度直方图，数据: [0.7092972666062739, 0.5023287782256718, 0.5031026124151314, 0.4112070550676187]...
+2025-03-21 15:35:03,061 - __main__ - INFO - 成功保存风险饼图: data\risk_pie_chart.png
+2025-03-21 15:37:43,601 - reverse_verify - INFO - 开始验证问题: '鼻炎可以被彻底治疗吗？抗生素可以解决吗？'
+2025-03-21 15:37:43,606 - reverse_verify - INFO - 问题分析 - 关键词: ['鼻炎', '治疗', '解决'], 实体: ['抗生素']
+2025-03-21 15:37:43,611 - utils.api_interaction - INFO - 尝试通过混元API生成文本: model=hunyuan-turbo, prompt长度=27, temperature=0.7
+2025-03-21 15:37:53,272 - utils.api_interaction - INFO - 成功生成文本: 长度=379, 耗时=9.66秒
+2025-03-21 15:37:53,274 - reverse_verify - WARNING - 答案与知识库冲突 - 答案可能与已知信息冲突: 抗生素 - 严禁自行购买使用，完成规定疗程防耐药
+2025-03-21 15:37:53,274 - utils.api_interaction - INFO - 尝试通过混元API生成文本: model=hunyuan-turbo, prompt长度=455, temperature=0.3
+2025-03-21 15:38:00,093 - utils.api_interaction - INFO - 成功生成文本: 长度=120, 耗时=6.82秒
+2025-03-21 15:38:00,102 - reverse_verify - INFO - 答案事实性评分: 9/10, 理由: 该陈述详细且准确地阐述了鼻炎不同类型（过敏性鼻炎、急性鼻炎、慢性鼻炎）的治疗可能性，以及抗生素在治疗鼻炎中的作用及适用范围，内容基于医学常识和临床实践，具有较高的科学性和可靠性，仅因医学研究在不断发展进步，故给到 9 分。
+2025-03-21 15:38:00,102 - reverse_verify - INFO - 开始生成反向问题 - 原问题: '鼻炎可以被彻底治疗吗？抗生素可以解决吗？', 关键词: ['鼻炎', '治疗', '解决']
+2025-03-21 15:38:00,102 - utils.api_interaction - INFO - 尝试通过混元API生成文本: model=hunyuan-turbo, prompt长度=449, temperature=0.8
+2025-03-21 15:38:01,671 - utils.api_interaction - INFO - 成功生成文本: 长度=12, 耗时=1.57秒
+2025-03-21 15:38:01,671 - utils.api_interaction - INFO - 尝试通过混元API生成文本: model=hunyuan-turbo, prompt长度=481, temperature=0.9
+2025-03-21 15:38:04,499 - utils.api_interaction - INFO - 成功生成文本: 长度=11, 耗时=2.82秒
+2025-03-21 15:38:04,501 - utils.api_interaction - INFO - 尝试通过混元API生成文本: model=hunyuan-turbo, prompt长度=494, temperature=1.0
+2025-03-21 15:38:05,971 - utils.api_interaction - INFO - 成功生成文本: 长度=13, 耗时=1.46秒
+2025-03-21 15:38:06,065 - reverse_verify - INFO - 反向问题生成完成 - 耗时: 5.96秒, 最佳问题: '鼻炎能彻底治好吗用啥方法', 相似度: 0.2061
+2025-03-21 15:38:06,073 - reverse_verify - INFO - 验证完成 - 问题: '鼻炎可以被彻底治疗吗？抗生素可以解决吗？', 相似度: 0.2061, 风险: 高风险, 耗时: 22.47秒
+2025-03-21 15:38:06,081 - utils.data_manager - INFO - 尝试保存验证结果: 鼻炎可以被彻底治疗吗？抗生素可以解决吗？...
+2025-03-21 15:38:06,081 - utils.data_manager - INFO - 历史文件路径: data\history.csv
+2025-03-21 15:38:06,104 - utils.data_manager - INFO - 成功保存到历史文件: data\history.csv
+2025-03-21 15:38:06,104 - utils.data_manager - INFO - 历史文件存在，大小: 12870 字节
+2025-03-21 15:38:36,783 - __main__ - INFO - 手动刷新历史记录
+2025-03-21 15:38:36,783 - __main__ - INFO - 尝试加载历史记录, 限制数量: 20
+2025-03-21 15:38:36,787 - __main__ - INFO - 成功读取历史文件，记录数：5
+2025-03-21 15:38:36,791 - __main__ - INFO - 成功加载 5 条历史记录
+2025-03-21 15:38:36,791 - __main__ - INFO - 绘制相似度直方图，数据: [0.7092972666062739, 0.5023287782256718, 0.5031026124151314, 0.4112070550676187, 0.2060836350139382]...
+2025-03-21 15:38:37,522 - __main__ - INFO - 成功保存风险饼图: data\risk_pie_chart.png
+2025-03-21 15:38:37,951 - __main__ - INFO - 刷新成功，加载了 5 条记录
+2025-03-21 15:38:56,402 - __main__ - INFO - 统计数据类型: <class 'dict'>, 内容: {'total_queries': 5, 'high_risk_queries': 3, 'low_risk_queries': 2, 'average_similarity': 0.4664038694657268, 'last_updated': '2025-03-21 15:38:56'}
+2025-03-21 15:38:59,721 - __main__ - INFO - 系统设置已保存
+2025-04-02 21:02:55,475 - utils.knowledge_base - INFO - 从 data\knowledge.json 加载了 33 条知识
+2025-04-02 21:02:55,476 - __main__ - INFO - 成功加载中文字体文件
+2025-04-02 21:02:55,476 - __main__ - WARNING - 配置中文字体失败: module 'matplotlib.font_manager' has no attribute '_rebuild'
+2025-04-02 21:02:55,476 - __main__ - INFO - 目录 data 已创建并可写入
+2025-04-02 21:02:55,476 - __main__ - INFO - 目录 logs 已创建并可写入
+2025-04-02 21:02:55,476 - utils.knowledge_base - INFO - 从 data\knowledge.json 加载了 33 条知识
+2025-04-02 21:02:55,482 - __main__ - INFO - 已清理历史记录文件
+2025-04-02 21:02:59,292 - __main__ - INFO - 应用程序启动，初始化界面
+2025-04-02 21:02:59,292 - __main__ - INFO - 尝试加载历史记录, 限制数量: 20
+2025-04-02 21:02:59,296 - __main__ - INFO - 成功读取历史文件，记录数：5
+2025-04-02 21:02:59,296 - __main__ - INFO - 成功加载 5 条历史记录
+2025-04-02 21:02:59,296 - __main__ - INFO - 绘制相似度直方图，数据: [0.7092972666062739, 0.5023287782256718, 0.5031026124151314, 0.4112070550676187, 0.2060836350139382]...
+2025-04-02 21:02:59,539 - __main__ - INFO - 成功保存风险饼图: data\risk_pie_chart.png
+2025-04-02 21:06:27,362 - __main__ - INFO - 统计数据类型: <class 'dict'>, 内容: {'total_queries': 5, 'high_risk_queries': 3, 'low_risk_queries': 2, 'average_similarity': 0.4664038694657268, 'last_updated': '2025-04-02 21:06:27'}
+2025-04-02 21:08:51,468 - reverse_verify - INFO - 开始验证问题: '头痛能通过针灸解决吗？中医用针放血对身体有无害处？'
+2025-04-02 21:08:51,475 - reverse_verify - INFO - 问题分析 - 关键词: ['害处', '放血', '针灸', '头痛'], 实体: []
+2025-04-02 21:08:51,477 - utils.api_interaction - INFO - 尝试通过混元API生成文本: model=hunyuan-turbo, prompt长度=32, temperature=0.7
+2025-04-02 21:09:02,389 - utils.api_interaction - INFO - 成功生成文本: 长度=552, 耗时=10.91秒
+2025-04-02 21:09:02,394 - utils.api_interaction - INFO - 尝试通过混元API生成文本: model=hunyuan-turbo, prompt长度=628, temperature=0.3
+2025-04-02 21:09:10,065 - utils.api_interaction - INFO - 成功生成文本: 长度=186, 耗时=7.67秒
+2025-04-02 21:09:10,076 - reverse_verify - INFO - 答案事实性评分: 8/10, 理由: 该陈述提供了关于针灸治疗头痛的详细信息，包括针灸的原理、方法和效果，以及中医用针放血的相关信息。这些信息与现有的中医理论和临床实践相符合，针灸作为中医学的重要治疗手段，在缓解头痛方面确实具有一定的效果，并且被广泛应用于临床。同时，陈述也提到了放血疗法的注意事项和潜在风险，强调了在专业人员操作下的安全性。然而，针灸和放血疗法的效果可能因个体差异而有所不同
+2025-04-02 21:09:10,086 - reverse_verify - INFO - 开始生成反向问题 - 原问题: '头痛能通过针灸解决吗？中医用针放血对身体有无害处？', 关键词: ['害处', '放血', '针灸']
+2025-04-02 21:09:10,087 - utils.api_interaction - INFO - 尝试通过混元API生成文本: model=hunyuan-turbo, prompt长度=622, temperature=0.8
+2025-04-02 21:09:12,262 - utils.api_interaction - INFO - 成功生成文本: 长度=14, 耗时=2.17秒
+2025-04-02 21:09:12,266 - utils.api_interaction - INFO - 尝试通过混元API生成文本: model=hunyuan-turbo, prompt长度=656, temperature=0.9
+2025-04-02 21:09:15,283 - utils.api_interaction - INFO - 成功生成文本: 长度=13, 耗时=3.01秒
+2025-04-02 21:09:15,286 - utils.api_interaction - INFO - 尝试通过混元API生成文本: model=hunyuan-turbo, prompt长度=671, temperature=1.0
+2025-04-02 21:09:17,557 - utils.api_interaction - INFO - 成功生成文本: 长度=14, 耗时=2.27秒
+2025-04-02 21:09:17,589 - reverse_verify - INFO - 反向问题生成完成 - 耗时: 7.50秒, 最佳问题: '针灸放血治疗头痛有啥害处吗？', 相似度: 0.4110
+2025-04-02 21:09:17,590 - reverse_verify - INFO - 验证完成 - 问题: '头痛能通过针灸解决吗？中医用针放血对身体有无害处？', 相似度: 0.4110, 风险: 高风险, 耗时: 26.12秒
+2025-04-02 21:09:17,591 - utils.data_manager - INFO - 尝试保存验证结果: 头痛能通过针灸解决吗？中医用针放血对身体有无害处？...
+2025-04-02 21:09:17,591 - utils.data_manager - INFO - 历史文件路径: data\history.csv
+2025-04-02 21:09:17,594 - utils.data_manager - INFO - 成功保存到历史文件: data\history.csv
+2025-04-02 21:09:17,594 - utils.data_manager - INFO - 历史文件存在，大小: 15837 字节
+2025-04-06 18:58:55,641 - utils.knowledge_base - INFO - 从 data\knowledge.json 加载了 33 条知识
+2025-04-06 18:58:55,642 - __main__ - INFO - 成功加载中文字体文件
+2025-04-06 18:58:55,642 - __main__ - WARNING - 配置中文字体失败: module 'matplotlib.font_manager' has no attribute '_rebuild'
+2025-04-06 18:58:55,642 - __main__ - INFO - 目录 data 已创建并可写入
+2025-04-06 18:58:55,643 - __main__ - INFO - 目录 logs 已创建并可写入
+2025-04-06 18:58:55,643 - utils.knowledge_base - INFO - 从 data\knowledge.json 加载了 33 条知识
+2025-04-06 18:58:55,656 - __main__ - INFO - 已清理历史记录文件
+2025-04-06 18:59:11,916 - __main__ - INFO - 应用程序启动，初始化界面
+2025-04-06 18:59:11,926 - __main__ - INFO - 尝试加载历史记录, 限制数量: 20
+2025-04-06 18:59:11,926 - __main__ - INFO - 成功读取历史文件，记录数：6
+2025-04-06 18:59:11,926 - __main__ - INFO - 成功加载 6 条历史记录
+2025-04-06 18:59:11,926 - __main__ - INFO - 绘制相似度直方图，数据: [0.7092972666062739, 0.5023287782256718, 0.5031026124151314, 0.4112070550676187, 0.2060836350139382]...
+2025-04-06 18:59:12,157 - __main__ - INFO - 成功保存风险饼图: data\risk_pie_chart.png
+2025-04-06 19:00:23,597 - reverse_verify - INFO - 开始验证问题: '胆结石怎么治疗，背胛骨疼，是不是癌症？'
+2025-04-06 19:00:23,599 - reverse_verify - INFO - 问题分析 - 关键词: ['胛骨', '胆结石', '癌症', '治疗'], 实体: []
+2025-04-06 19:00:23,602 - utils.api_interaction - INFO - 尝试通过混元API生成文本: model=hunyuan-turbo, prompt长度=26, temperature=0.7
+2025-04-06 19:00:31,984 - utils.api_interaction - INFO - 成功生成文本: 长度=323, 耗时=8.38秒
+2025-04-06 19:00:32,008 - reverse_verify - WARNING - 答案与知识库冲突 - 答案可能与已知信息冲突: 癌症 - 目前没有简单的治愈方法，需要专业医疗团队制定综合治疗方案
+2025-04-06 19:00:32,008 - utils.api_interaction - INFO - 尝试通过混元API生成文本: model=hunyuan-turbo, prompt长度=399, temperature=0.3
+2025-04-06 19:00:35,744 - utils.api_interaction - INFO - 成功生成文本: 长度=130, 耗时=3.73秒
+2025-04-06 19:00:35,745 - reverse_verify - INFO - 答案事实性评分: 9/10, 理由: 该陈述准确地概述了胆结石的主要治疗方法，包括手术治疗和非手术治疗，并详细描述了各种治疗方法的适用情况和特点。此外，陈述还正确地指出背胛骨疼痛可能有多种原因，胆结石只是其中之一，并非癌症的信号，建议及时就医进行检查。整体信息准确、全面，可信度高。
+2025-04-06 19:00:35,754 - reverse_verify - INFO - 开始生成反向问题 - 原问题: '胆结石怎么治疗，背胛骨疼，是不是癌症？', 关键词: ['胛骨', '胆结石', '癌症']
+2025-04-06 19:00:35,754 - utils.api_interaction - INFO - 尝试通过混元API生成文本: model=hunyuan-turbo, prompt长度=394, temperature=0.8
+2025-04-06 19:00:39,604 - utils.api_interaction - INFO - 成功生成文本: 长度=13, 耗时=3.85秒
+2025-04-06 19:00:39,607 - utils.api_interaction - INFO - 尝试通过混元API生成文本: model=hunyuan-turbo, prompt长度=427, temperature=0.9
+2025-04-06 19:00:41,532 - utils.api_interaction - INFO - 成功生成文本: 长度=15, 耗时=1.93秒
+2025-04-06 19:00:41,537 - utils.api_interaction - INFO - 尝试通过混元API生成文本: model=hunyuan-turbo, prompt长度=444, temperature=1.0
+2025-04-06 19:00:43,191 - utils.api_interaction - INFO - 成功生成文本: 长度=12, 耗时=1.65秒
+2025-04-06 19:00:43,252 - reverse_verify - INFO - 反向问题生成完成 - 耗时: 7.50秒, 最佳问题: '胛骨疼和胆结石有关系没？', 相似度: 0.3188
+2025-04-06 19:00:43,253 - reverse_verify - INFO - 验证完成 - 问题: '胆结石怎么治疗，背胛骨疼，是不是癌症？', 相似度: 0.3188, 风险: 高风险, 耗时: 19.66秒
+2025-04-06 19:00:43,261 - utils.data_manager - INFO - 尝试保存验证结果: 胆结石怎么治疗，背胛骨疼，是不是癌症？...
+2025-04-06 19:00:43,261 - utils.data_manager - INFO - 历史文件路径: data\history.csv
+2025-04-06 19:00:43,274 - utils.data_manager - INFO - 成功保存到历史文件: data\history.csv
+2025-04-06 19:00:43,276 - utils.data_manager - INFO - 历史文件存在，大小: 18079 字节
+2025-04-06 19:02:21,093 - __main__ - INFO - 手动刷新历史记录
+2025-04-06 19:02:21,093 - __main__ - INFO - 尝试加载历史记录, 限制数量: 20
+2025-04-06 19:02:21,093 - __main__ - INFO - 成功读取历史文件，记录数：7
+2025-04-06 19:02:21,093 - __main__ - INFO - 成功加载 7 条历史记录
+2025-04-06 19:02:21,093 - __main__ - INFO - 绘制相似度直方图，数据: [0.7092972666062739, 0.5023287782256718, 0.5031026124151314, 0.4112070550676187, 0.2060836350139382]...
+2025-04-06 19:02:21,969 - __main__ - INFO - 成功保存风险饼图: data\risk_pie_chart.png
+2025-04-06 19:02:22,636 - __main__ - INFO - 刷新成功，加载了 7 条记录
+2025-04-06 19:02:41,207 - __main__ - INFO - 统计数据类型: <class 'dict'>, 内容: {'total_queries': 7, 'high_risk_queries': 5, 'low_risk_queries': 2, 'average_similarity': 0.43739983328819493, 'last_updated': '2025-04-06 19:02:41'}
+2025-04-06 19:02:45,094 - __main__ - INFO - 系统设置已保存
+2025-04-14 20:41:55,124 - utils.knowledge_base - INFO - 从 data\knowledge.json 加载了 33 条知识
+2025-04-14 20:41:55,126 - __main__ - INFO - 成功加载中文字体文件
+2025-04-14 20:41:55,126 - __main__ - WARNING - 配置中文字体失败: module 'matplotlib.font_manager' has no attribute '_rebuild'
+2025-04-14 20:41:55,127 - __main__ - INFO - 目录 data 已创建并可写入
+2025-04-14 20:41:55,127 - __main__ - INFO - 目录 logs 已创建并可写入
+2025-04-14 20:41:55,128 - utils.knowledge_base - INFO - 从 data\knowledge.json 加载了 33 条知识
+2025-04-14 20:41:55,142 - __main__ - INFO - 已清理历史记录文件
+2025-04-14 20:41:59,297 - __main__ - INFO - 应用程序启动，初始化界面
+2025-04-14 20:41:59,297 - __main__ - INFO - 尝试加载历史记录, 限制数量: 20
+2025-04-14 20:41:59,303 - __main__ - INFO - 成功读取历史文件，记录数：7
+2025-04-14 20:41:59,305 - __main__ - INFO - 成功加载 7 条历史记录
+2025-04-14 20:41:59,305 - __main__ - INFO - 绘制相似度直方图，数据: [0.7092972666062739, 0.5023287782256718, 0.5031026124151314, 0.4112070550676187, 0.2060836350139382]...
+2025-04-14 20:41:59,688 - __main__ - INFO - 成功保存风险饼图: data\risk_pie_chart.png
+2025-04-14 20:42:58,824 - reverse_verify - INFO - 开始验证问题: '感冒了怎么办？
+'
+2025-04-14 20:42:58,826 - reverse_verify - INFO - 问题分析 - 关键词: ['感冒', '怎么办'], 实体: []
+2025-04-14 20:42:58,829 - utils.api_interaction - INFO - 尝试通过混元API生成文本: model=hunyuan-turbo, prompt长度=15, temperature=0.7
+2025-04-14 20:43:07,823 - utils.api_interaction - INFO - 成功生成文本: 长度=530, 耗时=8.99秒
+2025-04-14 20:43:07,827 - utils.api_interaction - INFO - 尝试通过混元API生成文本: model=hunyuan-turbo, prompt长度=606, temperature=0.3
+2025-04-14 20:43:13,145 - utils.api_interaction - INFO - 成功生成文本: 长度=184, 耗时=5.32秒
+2025-04-14 20:43:13,148 - reverse_verify - INFO - 答案事实性评分: 9/10, 理由: 该陈述提供了全面且科学的感冒处理措施，涵盖了休息与饮食、水分补充、药物治疗、其他方法以及注意事项。其中，休息、饮食调整、水分补充等建议符合常规医学指导；药物治疗部分提到的药物也均为常见的感冒用药，但强调了在特殊疾病患者应在医师指导下用药，体现了专业性和安全性；同时，提醒症状持续或加重应及时就医，非常负责任。整体内容详实可靠，仅穴位按摩部分效果可能因
+2025-04-14 20:43:13,176 - reverse_verify - INFO - 开始生成反向问题 - 原问题: '感冒了怎么办？
+', 关键词: ['感冒', '怎么办']
+2025-04-14 20:43:13,179 - utils.api_interaction - INFO - 尝试通过混元API生成文本: model=hunyuan-turbo, prompt长度=601, temperature=0.8
+2025-04-14 20:43:16,531 - utils.api_interaction - INFO - 成功生成文本: 长度=11, 耗时=3.35秒
+2025-04-14 20:43:16,536 - utils.api_interaction - INFO - 尝试通过混元API生成文本: model=hunyuan-turbo, prompt长度=632, temperature=0.9
+2025-04-14 20:43:18,135 - utils.api_interaction - INFO - 成功生成文本: 长度=11, 耗时=1.60秒
+2025-04-14 20:43:18,138 - utils.api_interaction - INFO - 尝试通过混元API生成文本: model=hunyuan-turbo, prompt长度=645, temperature=1.0
+2025-04-14 20:43:19,580 - utils.api_interaction - INFO - 成功生成文本: 长度=12, 耗时=1.44秒
+2025-04-14 20:43:19,636 - reverse_verify - INFO - 反向问题生成完成 - 耗时: 6.46秒, 最佳问题: '感冒了应该怎么办才好？', 相似度: 0.7093
+2025-04-14 20:43:19,640 - reverse_verify - INFO - 验证完成 - 问题: '感冒了怎么办？
+', 相似度: 0.7093, 风险: 低风险, 耗时: 20.82秒
+2025-04-14 20:43:19,643 - utils.data_manager - INFO - 尝试保存验证结果: 感冒了怎么办？
+...
+2025-04-14 20:43:19,643 - utils.data_manager - INFO - 历史文件路径: data\history.csv
+2025-04-14 20:43:19,651 - utils.data_manager - INFO - 成功保存到历史文件: data\history.csv
+2025-04-14 20:43:19,653 - utils.data_manager - INFO - 历史文件存在，大小: 20764 字节
+2025-04-14 20:44:50,928 - reverse_verify - INFO - 开始验证问题: '感冒了怎么办？会得癌症吗？癌症是不是由感冒引起的？
+'
+2025-04-14 20:44:50,933 - reverse_verify - INFO - 问题分析 - 关键词: ['癌症', '感冒', '引起'], 实体: []
+2025-04-14 20:44:50,935 - utils.api_interaction - INFO - 尝试通过混元API生成文本: model=hunyuan-turbo, prompt长度=33, temperature=0.7
+2025-04-14 20:44:57,450 - utils.api_interaction - INFO - 成功生成文本: 长度=382, 耗时=6.51秒
+2025-04-14 20:44:57,457 - reverse_verify - WARNING - 答案与知识库冲突 - 答案可能与已知信息冲突: 癌症 - 目前没有简单的治愈方法，需要专业医疗团队制定综合治疗方案
+2025-04-14 20:44:57,458 - utils.api_interaction - INFO - 尝试通过混元API生成文本: model=hunyuan-turbo, prompt长度=458, temperature=0.3
+2025-04-14 20:45:04,773 - utils.api_interaction - INFO - 成功生成文本: 长度=182, 耗时=7.31秒
+2025-04-14 20:45:04,779 - reverse_verify - INFO - 答案事实性评分: 9/10, 理由: 陈述中关于感冒的定义、症状、处理方法以及感冒与癌症关系的描述都是准确和科学的。感冒确实是一种常见的呼吸道疾病，主要由病毒引起，并且大多数情况下可以自愈。处理方法也符合常规医疗建议。关于癌症与感冒的关系，陈述正确地指出感冒不会直接导致癌症，这与现有的科学认知一致。唯一可以改进的是，可以稍微简化语言，使信息更加精炼易懂，但这并不影响其整体的可信度。
+2025-04-14 20:45:04,781 - reverse_verify - INFO - 开始生成反向问题 - 原问题: '感冒了怎么办？会得癌症吗？癌症是不是由感冒引起的？
+', 关键词: ['癌症', '感冒', '引起']
+2025-04-14 20:45:04,785 - utils.api_interaction - INFO - 尝试通过混元API生成文本: model=hunyuan-turbo, prompt长度=452, temperature=0.8
+2025-04-14 20:45:06,567 - utils.api_interaction - INFO - 成功生成文本: 长度=10, 耗时=1.78秒
+2025-04-14 20:45:06,571 - utils.api_interaction - INFO - 尝试通过混元API生成文本: model=hunyuan-turbo, prompt长度=482, temperature=0.9
+2025-04-14 20:45:07,908 - utils.api_interaction - INFO - 成功生成文本: 长度=9, 耗时=1.34秒
+2025-04-14 20:45:07,914 - utils.api_interaction - INFO - 尝试通过混元API生成文本: model=hunyuan-turbo, prompt长度=493, temperature=1.0
+2025-04-14 20:45:09,599 - utils.api_interaction - INFO - 成功生成文本: 长度=12, 耗时=1.68秒
+2025-04-14 20:45:09,633 - reverse_verify - INFO - 反向问题生成完成 - 耗时: 4.85秒, 最佳问题: '感冒和癌症有啥关系？', 相似度: 0.5031
+2025-04-14 20:45:09,634 - reverse_verify - INFO - 验证完成 - 问题: '感冒了怎么办？会得癌症吗？癌症是不是由感冒引起的？
+', 相似度: 0.5031, 风险: 高风险, 耗时: 18.71秒
+2025-04-14 20:45:09,637 - utils.data_manager - INFO - 尝试保存验证结果: 感冒了怎么办？会得癌症吗？癌症是不是由感冒引起的？
+...
+2025-04-14 20:45:09,637 - utils.data_manager - INFO - 历史文件路径: data\history.csv
+2025-04-14 20:45:09,642 - utils.data_manager - INFO - 成功保存到历史文件: data\history.csv
+2025-04-14 20:45:09,642 - utils.data_manager - INFO - 历史文件存在，大小: 23288 字节
+2025-04-27 14:26:45,297 - utils.knowledge_base - INFO - 从 data\knowledge.json 加载了 33 条知识
+2025-04-27 14:26:45,301 - __main__ - INFO - 成功加载中文字体文件
+2025-04-27 14:26:45,301 - __main__ - WARNING - 配置中文字体失败: module 'matplotlib.font_manager' has no attribute '_rebuild'
+2025-04-27 14:26:45,301 - __main__ - INFO - 目录 data 已创建并可写入
+2025-04-27 14:26:45,303 - __main__ - INFO - 目录 logs 已创建并可写入
+2025-04-27 14:26:45,303 - utils.knowledge_base - INFO - 从 data\knowledge.json 加载了 33 条知识
+2025-04-27 14:26:45,314 - __main__ - INFO - 已清理历史记录文件
+2025-04-27 14:27:14,210 - __main__ - INFO - 应用程序启动，初始化界面
+2025-04-27 14:27:14,210 - __main__ - INFO - 尝试加载历史记录, 限制数量: 20
+2025-04-27 14:27:14,211 - __main__ - INFO - 成功读取历史文件，记录数：9
+2025-04-27 14:27:14,215 - __main__ - INFO - 成功加载 9 条历史记录
+2025-04-27 14:27:14,215 - __main__ - INFO - 绘制相似度直方图，数据: [0.7092972666062739, 0.5023287782256718, 0.5031026124151314, 0.4112070550676187, 0.2060836350139382]...
+2025-04-27 14:27:14,443 - __main__ - INFO - 成功保存风险饼图: data\risk_pie_chart.png

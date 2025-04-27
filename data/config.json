@@ -1,0 +1,14 @@
+{
+  "API_KEY": "sk-GYGzfTANd7Vl4MSclcGPD6kZEB2zjqOjBpN07os6L2yCTOu5",
+  "API_BASE": "https://api.hunyuan.cloud.tencent.com/v1",
+  "MODEL_NAME": "hunyuan-turbo",
+  "MAX_TOKENS": 100,
+  "SIMILARITY_THRESHOLD": 0.65,
+  "RETRY_ATTEMPTS": 3,
+  "LOG_LEVEL": "INFO",
+  "DATA_DIR": "data",
+  "LOG_DIR": "logs",
+  "ENABLE_ENHANCEMENT": true,
+  "RISK_THRESHOLD": 0.5,
+  "SIMILARITY_CRITICAL": 0.4
+}
